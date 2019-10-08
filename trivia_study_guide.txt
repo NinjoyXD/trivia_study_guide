@@ -1,0 +1,4564 @@
+TRIVIA STUDY GUIDE
+
+== Intro ==
+Hey how's it going. This guide here is a futile attempt to get every #trivia question down on paper in an easy to digest format. Use your computer's find (ctrl/cmd + f) function to find questions quickly.
+
+There is sometimes more than one answer to some questions in the trivia, but the fastest answers are listed so players can save time. For the questions whose answers can be typed in similar speeds, those questions are listed in the "trivia about #trivia" at the bottom of this file.
+
+Questions are generally sorted by game progression and relevance.
+
+If any answers are wrong/questions are missing, please alert me so I can update the guide!
+
+This guide applies to both #trivia and #epic-battles as they pull from the same question pool.
+
+https://terraria.gamepedia.com/
+Quick access wiki link. Type after the slash to get to a page fast.
+
+== Pre-Github Patch notes ==
+v1.0 - Release by Qw2#2990
+v1.0.1 - Added 2 questions from ZucriyAmsuna#5436
+v1.0.2 - Moved patch notes & wiki link to top; Tip from XultroniX#5965
+v1.0.3 - Added 3 questions from ZucriyAmsuna#5436. Added message for when the trivia bot times out. Added "Which armor set grants you the ability to dash?" to Bad Answers.
+v1.0.4 - "wooden greaves" -> "wood greaves" (Which piece of armor grants 0 defense in the PC version?), Added 1 question from ZucriyAmsuna#5436
+v1.1 - OCTOBER UPDATE! This update has reworded old questions and added new ones to stump even the most seasoned trivia members. Thank you to everyone who posted questions in #trivia-chat! 
+* Fixed typo in one question.
+* Added 50 questions from Insaneous#2747.
+* Added 9 questions from Slade#0002
+* Added 1 question from StephanTimmy#6269
+* Added 2 questions from DuneX22#5256
+* Added 1 question from Wither_boy1664#8984
+
+== Questions ==
+
+> [Unknown] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Without using items that increase view range, what is the maximum horizontal distance that the Ruler can measure, in blocks?
+???
+
+How many vanity items worn in the head slot are not part of a set?
+81
+
+> [Items] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+>> [Crafting (materials)] --------------------------
+Which gem is needed in order to craft the Slime Crown?
+ruby
+
+Name one of the ingredients in Grub Soup.
+buggy
+
+What ingredient other than Wood is needed in order to craft a Target Dummy?
+hay
+
+Along with bones, what material is needed to craft Necro armor?
+cobweb
+
+How many recipes use the bone item in the PC version?
+51
+
+Aside from the Rage Potion, which other potion can only be crafted in worlds containing the Crimson?
+heartreach
+
+What fish can be used to craft two different potions?
+specular
+
+Which fish do you need two of in order to craft an Inferno Potion?
+obsidifish
+
+Which fish is used to craft the Endurance Potion?
+armored cavefish
+
+Which fish is used to craft the Wrath Potion?
+ebonkoi
+
+Which fish is used to craft the Summoning Potion?
+variegated lardfish
+
+Which fish is used to craft the Rage Potion?
+hemopiranha
+
+Which fish is used to craft the Recall and Wormhole Potions?
+specular
+
+Which fish is used to craft the Ammo Reservation Potion?
+double cod
+
+Which fish is used to craft the Love Potion?
+princess
+
+Which fish is used to craft the Teleportation Potion?
+chaos
+
+Which fish is used to craft the Heartreach Potion?
+crimson tigerfish
+
+Which fish is used to craft the Calming Potion?
+damselfish
+
+Which fish is used to craft the Rage Potion?
+hemopiranha
+
+Which fish is used to craft the Lifeforce Potion?
+prismite
+
+Which fish is used to craft the Warmth Potion?
+frost minnow
+
+Name one of the 2 fish used to craft the Inferno Potion.
+obsidifish
+
+How many different types of fish require the player to NOT be in certain specific biomes to be caught?
+4
+
+What item can be crafted using a Copper or Tin Watch?
+5 second timer
+
+Aside from herbs and Bottled Watter, what item is used to craft Hunter Potions?
+shark fin
+
+What item can be crafted using Jungle Grass Seeds?
+green thread
+
+True or false: The Mechanical Skull requires Adamantite/Titanium bars to be crafted.
+false
+
+Excluding Shroomite, which type of bar cannot be used to craft a pickaxe?
+meteorite
+
+Name a sword used in the crafting of the Night's Edge.
+muramasa
+
+Frostburn arrows are crafted using Wooden Arrows and which other item?
+ice torch
+
+What item do you need one of in order to craft a piano?
+book
+
+What is the only Cage that contains a sprite that does not match the critter it is crafted with?
+penguin
+
+What is the only type of bar in the game that requires something in addition to its corresponding ore to be crafted?
+hellstone
+
+What ingredient can be combined with Bottled Water to create a Flask of Fire?
+hellstone
+
+Which spear is crafted using hallowed bars?
+gungnir
+
+Which Hardmode bar is the only one that cannot be crafted?
+hallowed
+
+Which item is required to upgrade the Night's Edge and Excalibur to their true versions?
+broken hero sword
+
+What type of soul is needed to craft the Megashark?
+might
+
+Which item do you need to craft most wings?
+soul of flight
+
+Which type of bar requires the most ore to craft?
+chlorophyte
+
+Which material is used to craft the Solar Eruption?
+solar fragment
+
+In order to craft Spectre bars, you need ectoplasm and what other material?
+chlorophyte
+
+In order to craft the celestial shell, you need the celestial stone and what other accessory?
+moon shell
+
+How much money is required to craft The Grand Design?
+15g
+
+How many accessories are required in total to craft the Master Ninja Gear?
+4
+
+
+>> [Stations] ----------------------------------------
+
+What type of crafting station can act as a replacement for liquid water?
+sink
+
+Which crafting station can Lunar Fragments be used at?
+ancient manipulator
+
+Which crafting station allows you to craft blocks and furniture related to slime?
+solidifier
+
+How many different blocks can be crafted at a Solidifier?
+3
+
+Which crafting station is used to craft Flesh blocks?
+meat grinder
+
+Which crafting station, found in the Dungeon, can be used to craft potions with a bonus chance of not consuming the materials used to craft the potion?
+alchemy table
+
+Which crafting station is used to craft Asphalt blocks?
+blend o matic
+
+Which crafting station are Shroomite bars crafted at?
+autohammer
+
+Which crafting station are flasks created at?
+imbuing station
+
+Name a crafting station that is only used to craft one item.
+blend-o-matic
+
+What furniture item is needed in order to obtain Sturdy Fossils?
+extractinator
+
+>> [Weapons/Tools] -----------------------------------
+What is the maximum attainable minion capacity?
+11
+
+What is the base damage of a Palladium Pike?
+32
+
+What is the base damage of the Bouncy Grenade?
+65
+
+True or false: You can deal critical hits to other players in PvP combat.
+false
+
+Name one of the 3 pickaxes with the weakest pickaxe power that can mine Luminite ore.
+tin
+
+Which weapon do you receive upon character creation?
+copper shortsword
+
+Which shortsword has the highest base damage?
+platinum
+
+What is the only weapon that can damage friendly NPCs without the use of accessories?
+rotten egg
+
+What is the base damage of a Snowball in the PC version?
+8
+
+How many weapons have a 100% chance of inflicting the Poisoned debuff?
+1
+
+What is the weakest yoyo that features the One Drop logo?
+rally
+
+Which yoyo has a 0.25% drop rate in pre-Hardmode?
+cascade
+
+What is the only item that becomes completely unobtainable in Hardmode?
+cascade
+
+What is the only gun in the game that shoots blocks?
+sandgun
+
+Name one of the 2 guns with the slowest fire rate.
+shotgun
+
+Which item that requires Rich Mahogany to craft does not have "Rich Mahogany" in its name?
+amazon
+
+Which ranged weapon can be crafted into two different weapons?
+minishark
+
+What is the only pre-Hardmode gun that has an innate chance not to consume ammo?
+minishark
+
+What is the weakest magic weapon in the game?
+wand of sparking
+
+Which accessory shares its sound effect with the Aqua Scepter?
+rocket boots
+
+Which weapon can you find in the Dungeon by breaking certain books?
+water bolt
+
+Which weapon creates a literal rain of blood?
+crimson rod
+
+How many times can a Water Bolt's projectile ricochet before it disappears?
+5
+
+Which magic weapon, under certain conditions, can be used without consuming mana?
+space gun
+
+What is the only ranged weapon that requires gems to craft?
+sandgun
+
+Which sword can be found in chests on Floating Islands?
+starfury
+
+Which hamaxe has the lowest hammer and axe power?
+meteor
+
+Which sword is a likely reference to a famous 16th century Japanese swordsmith?
+muramasa
+
+Excluding boomerangs that stack, which boomerang DOESN'T have to wait for the initial projectile to return to be able to be used again?
+possessed hatchet
+
+What is the only homing boomerang?
+possessed hatchet
+
+Which yoyo is found in golden chests in the Dungeon?
+valor
+
+What is the only boomerang that obeys gravity?
+bloody machete
+
+What does the Bone Glove use as ammo?
+bone
+
+Which Pre-Hardmode sword deals the highest base damage?
+night's edge
+
+Where can you find the Dark Lance?
+underworld
+
+Which spear can be found in a Shadow Chest?
+dark lance
+
+Which bow can be found in a Shadow Chest?
+hellwing
+
+Which bow turns Wooden Arrows into bats upon being fired?
+hellwing
+
+Which enemy inflicts the Withered Weapon debuff?
+etherian lightning bug
+
+Which pre-Hardmode magic weapon has the highest base damage?
+flower of fire
+
+What is the largest sword in Terraria?
+breaker blade
+
+Which Hardmode sword has the highest critical strike chance?
+slap hand
+
+Name a magic weapon which fires projectiles that pierce AND ricochet infinitely until their time limit runs out.
+magical harp
+
+Which boomerang can be remotely controlled?
+flying knife
+
+Which Hardmode weapon inflicts the Confused debuff?
+dao of pow
+
+Which spear is crafted using Titanium Bars?
+titanium trident
+
+What is the maximum number of Light Discs that can be stacked in one slot?
+5
+
+Using Wooden Arrows, which bow fires the highest velocity arrows?
+marrow
+
+Which hammer can be obtained through fishing?
+rockfish
+
+What color rarity is the Magical Harp?
+pink
+
+What color rarity is the Ice Bow?
+pink
+
+What Hardmode ranged weapon can only be found in the Underground Snow biome?
+ice bow
+
+What is the Crimson counterpart of the Cursed Flames weapon?
+golden shower
+
+What is the fastest melee weapon in the game?
+fetid baghnakhs
+
+Which bow does not fire arrows directly?
+daedalus stormbow
+
+Which weapon produces purple projectiles that can pass through walls?
+death sickle
+
+Which magic weapon can execute a different attack using a right click?
+tome of infinite wisdom
+
+Which Hardmode weapon is the improved version of the Flamelash?
+rainbow rod
+
+Which ranged weapon fires unique ammo that explodes into shrapnel?
+stynger
+
+What is the maximum number of Bananarangs that can be stacked in one slot?
+10
+
+Which drill has the lowest pickaxe power?
+cobalt
+
+Which stat is tied to the range of flamethrowers?
+velocity
+
+What Hardmode bow deals the least base damage?
+pearlwood
+
+Which Hardmode weapon is a direct upgrade to the Crimson Rod?
+nimbus rod
+
+Which weapon is the upgraded version of the Bee Gun?
+wasp gun
+
+Which semi-automatic gun has the fastest fire rate?
+venus magnum
+
+Which Hardmode weapon is a direct upgrade to the Blowpipe?
+blowgun
+
+Which weapon is the upgraded version of the Poison Staff?
+venom staff
+
+How many minion slots does a spider summoned by the Spider Staff occupy? Answer should be in decimal form.
+0.75
+
+Which bow (excluding Phantasm) fires the most arrows in 1 shot?
+aerial bane
+
+Which launcher fires homing rockets?
+snowman cannon
+
+What is the fastest weapon in the game by use time?
+chain gun
+
+What is the only gun whose projectiles are affected by gravity?
+candy corn rifle
+
+What percentage chance does the Chain Gun have to not consume bullets?
+50
+
+Which weapon can be crafted using a Shotgun, 10 souls of night and 2 dark shards?
+onyx blaster
+
+How many tiles of extra range do Spectre tools have?
+3
+
+Which spear has the shortest name?
+spear
+
+Which melee weapon requires the most TOTAL unique materials to craft?
+terra blade
+
+Which spear produces a projectile that is not affected by Flasks?
+chlorophyte partisan
+
+What is the base damage of the Terra Blade?
+95
+
+Which weapon gives you the Life Drain buff when attacking enemies?
+life drain
+
+Which Hardmode weapon has a sell price of only 2 silver?
+chain guillotines
+
+Of the ranged weapons that cannot obtain the Unreal modifier, which has the highest base damage?
+nail gun
+
+Which magic weapon fires boulders?
+staff of earth
+
+Which minion does not resemble something in the game that can harm you?
+pygmy
+
+How many claws does the Shroomite Digging Claw have?
+3
+
+How likely is the Chain Gun to not consume bullets?
+50%
+
+Which weapon receives a substantial damage boost when used against a Vampire?
+stake launcher
+
+Which weapon is the only melee weapon capable of stealing life from enemies?
+vampire knives
+
+What is the only known weapon that can kill the Dungeon Guardian in one hit?
+the horseman's blade
+
+The Star Wrath is the improved version of which pre-Hardmode weapon?
+starfury
+
+Which melee weapon has the highest base damage?
+meowmere
+
+Excluding the Coin Gun, which ranged weapon deals the most base damage?
+sniper rifle
+
+What is the fastest firing gun in the game?
+chain gun
+
+Which magic weapon can reach 10,000 damage per second on a single target?
+last prism
+
+Which minion summoning item adds additional segments to its minion instead of summoning more minions?
+stardust dragon staff
+
+Which summoning weapon creates a minion with multiple segments?
+stardust dragon staff
+
+What is the base damage of the Last Prism?
+100
+
+What is the only yoyo that shoots projectiles?
+terrarian
+
+How many developers have their own unique yoyo (included with their vanity set) in the game?
+2
+
+Which magic weapon deals the most base damage?
+nebula blaze
+
+Which summoner weapon deals the most base damage?
+rainbow crystal staff
+
+What percentage is the base critical strike chance of the S.D.M.G.?
+14%
+
+What word does every summon weapon (except some sold by the Tavernkeep) have in its name?
+staff
+
+What is the only item in the game that can both remove and place blocks?
+dirt rod
+
+What is the only weapon in the game that can summon blocks?
+ice rod
+
+Which debuff is inflicted after using the Rod of Discord?
+chaos state
+
+What fraction of the player's maximum health does the Rod of Discord take away if used while the Chaos State debuff is active in the PC version? Answer as a fraction in simplest form.
+1/7
+
+What is the duration of the Chaos State debuff?
+6
+
+Which item is functionally identical to the sticky bomb?
+bomb fish
+
+After how many seconds does a thrown stick of Dynamite explode?
+5
+
+What is the Crimson counterpart to the War Axe of the Night?
+blood lust cluster
+
+Which fish, caught in the Ocean, can be used as a pickaxe?
+reaver shark
+
+Which tool has the same pickaxe power as the Reaver Shark?
+molten pickaxe
+
+What is the pickaxe/drill with the most range?
+laser drill
+
+Which tool boasts the highest pickaxe power of any pickaxe or drill?
+laser drill
+
+Name a magic weapon whose projectiles always last for a set duration.
+magical harp
+
+What magic weapon produces homing purple flames?
+spirit flame
+
+How many tools can be obtained that are capable of mining Lihzahrd Bricks?
+6
+
+Which item allows ultimate control over wires?
+grand design
+
+Which wiring-related accessory cannot be combined with The Grand Design?
+presserator
+
+Which powder cleanses the Crimson and Corruption?
+purification
+
+Which axe/chainsaw deals the highest amount of damage?
+butcher's chainsaw
+
+Which axe/chainsaw has the highest axe power in the game?
+the axe
+
+Which tool has the highest axe power?
+the axe
+
+What is the pickaxe with the lowest pickaxe power that can mine Obsidian?
+nightmare
+
+Which pickaxe/drill has identical pickaxe power to the Molten Pickaxe?
+reaver shark
+
+What is the pickaxe power of the reaver shark?
+100%
+
+Which pickaxe has the fastest mining speed?
+shroomite digging claw
+
+What is the only non-accessory, non-weapon item that increases the player's view range?
+binoculars
+
+Which non-accessory item requires the most number of unique accessories to craft?
+cell phone
+
+Which item must the player be carrying in order for the Cyborg to sell the Portal Gun Station?
+portal gun
+
+Which gun can create homing projectiles without using Chlorophyte Bullets?
+vortex beater
+
+What item do you need to buy to start fishing?
+bug net
+
+Which item must you purchase before you can catch critters?
+bug net
+
+What tool can also be used as armor?
+bucket
+
+Which wand places blocks that only have a chance to be reclaimable?
+hive wand
+
+Which hook has the longest reach?
+static
+
+Which hook allows you to move in a perfect circle?
+anti-gravity
+
+Which hook has the most number of hooks, but the shortest reach?
+web slinger
+
+What is the only grappling hook that can be obtained by looting chests?
+web slinger
+
+What magic weapon has the highest knockback?
+tome of infinite wisdom
+
+Which hook pulls in the player the fastest?
+bat
+
+True or false: Using the Water Gun on another player who's riding a Cute Fishron will trigger the mount's buffs.
+true
+
+Excluding teleporting, hoiking, and using glitches, what item enables the fastest potential movement speed in the game?
+portal gun
+
+What item can be bought only if a Portal Gun is in your inventory?
+portal gun station
+
+How many placeable items work the same way as Rope (including Rope)?
+8
+
+>> [Ammo] ------------------------------------------
+What is the sell value of the arrow with the lowest velocity in the PC version?
+20c
+
+What is the cheapest buyable ammunition item?
+wooden arrow
+
+Name a type of bullet with "extremely weak" knockback.
+meteor shot
+
+Which type of arrow summons falling stars?
+holy
+
+What is the name of the projectile summoned by Holy Arrows upon impact?
+hallow star
+
+What debuff do Golden Bullets inflict?
+midas
+
+Which type of arrow has the highest velocity?
+hellfire
+
+Without the use of any kind of glitch, which type of arrows are unrenewable in the space of 1 world?
+chlorophyte
+
+Which arrow type applies a debuff that decreases defense on contact?
+ichor
+
+Which arrow is tied with the Cursed Arrow for the highest base damage?
+venom
+
+Which type of arrow can pierce an unlimited number of enemies?
+jester
+
+What is the base damage of the arrow type with the highest velocity in the PC version?
+13
+
+How many enemies can be damaged with one Meteor Shot?
+2
+
+What is the name of the item that can be crafted using 3996 arrows at a Crystal Ball?
+endless quiver
+
+What type of ammo do flamethrowers use?
+gel
+
+What type of ammo does the Clentaminator use?
+solution
+
+What is the base damage of a Gold Coin fired from a Coin Gun?
+100
+
+Which type of bullet has the highest velocity?
+high velocity
+
+How many times do Meteor Shots ricochet/pierce?
+1
+
+Which type of bullet can be used to achieve the maximum damage per second of ~150,000 with the S.D.M.G.?
+luminite
+
+Which type of bullet has the highest base damage?
+luminite
+
+What is the velocity of the bullet type with the highest knockback?
+4.7
+
+What is the velocity of the bullet type with the lowest damage?
+4
+
+Which type of bullet can the player use to damage themselves?
+exploding
+
+Which type of bullet inflicts the Confused debuff on contact with an enemy?
+nano
+
+Which type of bullet is capable of bouncing off walls?
+meteor shot
+
+Which bullet variant homes in on enemies?
+chlorophyte
+
+>> [Bait & Fishing] --------------------------------
+What is the minimum number of tiles required for a body of water to be fished in without incurring a fishing power penalty?
+300
+
+Name a quest fish that is named after an real fish, and visually resembles the fish it is named after.
+clownfish
+
+Mining and ___ are methods of getting Hardmode ores and bars. What is the missing method?
+fishing
+
+True or false: Moon phases affect fishing power.
+true
+
+What fishing rod can be obtained without crafting or interacting with NPCs?
+fiberglass
+
+How does one obtain the Enchanted Sundial?
+fishing
+
+What functional furniture item can be obtained by opening Crates in Hardmode?
+enchanted sundial
+
+What is the chance of getting a Hardy Saddle from a Golden Crate?
+1/10
+
+Name one of the 2 butterflies with the highest bait power.
+gold
+
+What bait has the lowest bait power?
+monarch butterfly
+
+Which fish besides the Golden Carp has no use aside from being sold?
+neon tetra
+
+What is the maximum possible fishing power?
+282
+
+>> [Pets] ------------------------------------------
+
+Which item summons a pet Tiki Spririt?
+tiki totem
+
+Which item summons a pet Baby Snowman?
+toy sled
+
+Which item summons a pet Baby Hornet?
+nectar
+
+Which item summons a pet Mini Minotaur?
+tartar sauce
+
+Which item summons a pet Baby Face Monster?
+bone rattle
+
+What is the name of item which summons the Baby Eater pet?
+eater's bone
+
+What is the chance of getting an Amber Mosquito after using 1000 silt on the Extractinator? Answer as a fraction in simplest form.
+1/5
+
+Which pet can stab the player in complete darkness?
+companion cube
+
+Which entity "will never threaten to stab you and, in fact, cannot speak"?
+companion cube
+
+What was the first pet introduced into the game?
+bunny
+
+Which item can the Unlucky Yarn be obtained from?
+goodie bags
+
+How many normal pets produce light?
+2
+
+How many different colors of pixies can be summoned by the Fairy Bell?
+3
+
+>> [Consumables/Potions] ---------------------------
+Excluding the Life Fruit, which healing item restores the least health?
+mushroom
+
+How many crafting recipes use a Mushroom?
+4
+
+How much health does the Lesser Healing Potion restore?
+50
+
+Which item is used to permanently increase your maximum mana by 20?
+mana crystal
+
+Which item grants the longest duration of the Well Fed buff upon consumption?
+pumpkin pie
+
+What is the only fish that restores health?
+honeyfin
+
+Which item obtained from Presents can be consumed to heal health?
+eggnog
+
+Which item unlocks the locked Gold Chests in the Dungeon?
+golden key
+
+Which potion sends you to a random location in the world?
+teleportation
+
+Which potion reveals traps upon consumption?
+dangersense
+
+What is the only item that requires a vanity item to craft?
+slime crown
+
+Which item can be used to summon a Goblin Army?
+goblin battle standard
+
+What item is used to manually summon the Brain of Cthulhu?
+bloody spine
+
+What item is used to manually summon the Eater of Worlds?
+worm food
+
+Which voodoo doll do you need to summon Skeletron?
+clothier
+
+Which accessory lets the player actively damage the Guide when equipped?
+guide voodoo doll
+
+What is the name of the item used to summon The Twins?
+mechanical eye
+
+What is the name of the item used to summon Skeletron Prime?
+mechanical skull
+
+What is the name of the item used to summon The Destroyer?
+mechanical worm
+
+Which item is used to summon a Solar Eclipse?
+solar tablet
+
+What must be used at the Lihzahrd Altar in order to summon Golem?
+lihzahrd power cell
+
+Which item is used to summon the Pumpkin Moon? {{PLACEHOLDER}}
+pumpkin moon medallion
+
+What item is used to summon the Frost Moon?
+naughty present
+
+Which item is needed to summon Duke Fishron?
+truffle worm
+
+What is the listed bait power of the Truffle Worm?
+666
+
+What type of consumable item that grants a buff/debuff stays in effect after death?
+flask
+
+Which Flask does not cause melee attacks to inflict a debuff?
+party
+
+How many Flasks are crafted using items bought from NPCs?
+4
+
+Which item is used to summon the Moon Lord?
+celestial cigil
+
+Which item can be used to gain an extra accessory slot?
+demon heart
+
+Which potion, upon consumption, grants you 11 debuffs?
+red
+
+How much ADDITIONAL health does the Restoration Potion restore as opposed to the Lesser Restoration Potion?
+0
+
+Which potion buffs the player to deal damage to enemies that come in contact with the player?
+thorns
+
+Which potion increases maximum minion count by 1?
+summoning
+
+Which potion boosts enemy spawn rates upon consumption?
+battle
+
+Which potion makes you immune to lava?
+obsidian skin
+
+Which potion increases defense only against a certain group of enemies?
+warmth
+
+Which potion cannot be obtained by smashing pots except in multiplayer mode?
+wormhole
+
+Without crafting, which potion can only be obtained in multiplayer?
+wormhole
+
+Which potion teleports the user to another player's location?
+wormhole
+
+What is the fastest way to reach your spawnpoint?
+recall potion
+
+Which healing item restores the most health?
+super healing potion
+
+What is the main ingredient of potions?
+bottled water
+
+How can you change the gender of your character after character creation?
+gender change potion
+
+Which item inflicts the Stinky debuff?
+stink potion
+
+Which potion restores the most amount of mana upon consumption?
+strange brew
+
+What is the maximum amount of health you can have without using a Lifeforce Potion?
+500
+
+What is the max obtainable health (including buffs)?
+600
+
+What is the highest maximum mana attainable?
+400
+
+How much does the Fishing Potion increase your fishing power by?
+15
+
+By what percentage does the Archery Potion increase the damage and firing speed of arrows?
+20
+
+By what percentage does the Rage Potion increase a player's critical strike chance?
+10
+
+How much health does a mushroom heal?
+15
+
+By what percentage does the Endurance Potion reduce damage taken?
+10
+
+How much does the Ironskin Potion increase defense by?
+8
+
+Which item increases enemy spawn rates when stood near?
+water candle
+
+>> [Armor/Accessories] -----------------------------------------
+Which piece of armor grants 0 defense in the PC version?
+wood greaves
+
+Which vanity set is Corruption-exclusive?
+archaeologist
+
+Excluding the defense from the set bonus, which armor set has the lowest defense?
+wood
+
+What is the total value of all the bars needed to craft the Drill Containment Unit?
+1p 85g 60s
+
+Which helpful accessory can be crafted using 30 cobweb?
+white string
+
+Which accessory lets the player actively damage the Clothier when equipped?
+clothier voodoo doll
+
+Which accessory, found in chests, provides increased life regeneration?
+band of regeneration
+
+Which accessory, found in chests on Floating Islands, negates all fall damage?
+lucky horseshoe
+
+Which accessory can be combined with a lucky horseshoe to make a green horseshoe balloon?
+fart in a balloon
+
+Magic Cuffs are crafted using the Mana Regeneration Band and what other accessory?
+shackle
+
+Which base accessory grants immunity to the Poisoned debuff?
+bezoar
+
+Which single balloon lets you jump the highest?
+sandstorm in a balloon
+
+Which item allows you to auto-jump?
+frog leg
+
+Which balloon accessory provides the second-highest double jump?
+fart
+
+Which helmet has the same effect as the Night Owl Potion?
+night vision
+
+Which mount boosts falling speed?
+slime
+
+What is the effective base damage of lava after an Obsidian Rose is equipped?
+50
+
+How many mounts provide unlimited flight?
+3
+
+How many ancient helmets do not have a corresponding ancient armor set?
+3
+
+Which Expert-exclusive accessory prevents damage from slimes?
+royal gel
+
+By what percentage does Mining armor's set bonus increase mining speed?
+30%
+
+Which Expert-exclusive accessory allows the player to deal damage by dashing?
+shield of cthulhu
+
+Which accessory with "Shield" in its name does not provide any defense?
+squire's shield
+
+What is the weakest Hardmode-exclusive armor set?
+pearlwood
+
+Which accessory is found in chests and improves movement on all types of ice?
+ice skates
+
+The Frostspark Boots are created using Lightning Boots and what other accessory?
+ice skates
+
+Which pre-Hardmode armor set has a set bonus that boosts movement speed?
+shadow
+
+True or false: The Magma Stone makes players immune to the On Fire! debuff.
+false
+
+Which single piece of armor boosts critical strike chance the most?
+orichalcum headgear
+
+What is the only Orichalcum armor piece that increases damage?
+mask
+
+How many different items can be placed in the Light Pet equipment slot?
+7
+
+Which helmet provides the largest combined bonuses to melee damage and critical strike chance?
+chlorophyte mask
+
+Which armor piece provides the largest critical strike bonus to all damage types?
+chlorophyte greaves
+
+Which armor piece provides a critical strike bonus that is not listed in its tooltip?
+apprentice's trousers
+
+What is the only item obtainable before defeating the Moon Lord that increases minion capacity by 2?
+forbidden treads
+
+Wearing a gem-augmented Robe will increase the spawn rate of which enemy?
+tim
+
+How much defense does the Monk armor set provide?
+46
+
+What does the Moon Charm turn you into at night?
+werewolf
+
+Which armor set has identical stats to Jungle armor?
+ancient cobalt
+
+Which armor set has identical stats to Shadow armor?
+ancient shadow
+
+Which Expert-exclusive item's effect becomes disabled in a non-Expert world?
+demon heart
+
+What percent discount does the Discount Card provide?
+20
+
+Which accessory is made by combining the Coin Ring and the Discount Card at a tinkerer's workshop?
+greedy ring
+
+Which armor set rains flower petals onto enemies upon hitting them?
+orichalcum
+
+Out of all the enemies, which enemy is the only one that can be detected by the Lifeform Analyzer but does not naturally spawn?
+jungle mimic
+
+Along with the Hand Warmer, what other item negates a debuff but isn't included in the creation of the Ankh Shield?
+pocket mirror
+
+Which base accessory displays fishing information?
+fisherman's pocket guide
+
+Which informational accessory displays rare enemies & undiscovered NPCs?
+lifeform analyzer
+
+Which accessory grants immunity to Cursed as its only effect?
+nazar
+
+Which accessory grants immunity to Darkness as its only effect?
+blindfold
+
+Which accessory grants immunity to Broken Armor as its only effect?
+armor polish
+
+{{PLACEHOLDER: only effect}}
+
+Which accessory can the Nazar be combined with?
+megaphone
+
+Which accessory directly used to craft the Ankh Charm is not crafted from two components?
+blindfold
+
+Which accessory gives you glowing eyes?
+yoraiz0r's spell
+
+What is the only ranged-specific accessory that provides no offensive bonuses whatsoever?
+rifle scope
+
+Which lunar armor set DOESN'T grant a set bonus that involves double tapping a directional key?
+nebula
+
+Which armor set grants the most extra minion capacity?
+stardust
+
+Which armor set grants you the ability to dash?
+solar flare
+
+What is the name of the first mount item added to the game?
+reindeer bells
+
+Which armor has the set bonus that makes melee and ranged attacks inflict frostburn?
+frost
+
+Not counting hybrid sets, which armor set provides the largest combined bonuses to melee damage and critical strike chance?
+beetle
+
+Which accessory has the highest attack speed bonus without modifiers?
+celestial shell
+
+Which accessory only activates when the wearer's health is below 50%?
+frozen turtle shell
+
+Which base accessory allows the player to be in contact with lava for up to 7 seconds at a time?
+lava charm
+
+By what percentage does your magic damage decrease after equipping a Spectre Hood with the rest of the Spectre armor set?
+25%
+
+Name one of the 2 armor sets that grant partial invisibility to the player.
+vortex
+
+How many debuffs does the Ankh Charm provide immunity to?
+9
+
+Name an armor set with a set bonus that directly boosts movement speed in the PC version.
+shadow
+
+Name an item that can prevent fall damage from the Stoned debuff.
+djinn's curse
+
+Name one of the pairs of wings with the most ascent speed?
+solar
+
+How many seconds does it take for Solar Flare armor's shields to regenerate?
+5
+
+True or false: Developer sets are unobtainable in normal mode worlds.
+true
+
+Which wings have the unique ability to travel faster in water?
+fishron
+
+Which accessory alerts players to the presence of rare enemies?
+lifeform analyzer
+
+Which vanity accessory cannot be seen if anything other than a Familiar Wig is worn in the helmet slot?
+ginger beard
+
+How many shields are compatible with the Brand of the Inferno?
+6
+
+>> [Painting depictions] ---------------------------
+Which structure is depicted in the Underground Reward painting?
+crystal heart
+
+Which enemy is depicted in the Rare Enchantment painting?
+tim
+
+Which enemy is depicted in the First Encounter painting?
+green slime
+
+Name one of the 2 friendly NPCs depicted in the Terrarian Gothic painting.
+mechanic
+
+Which enemy is depicted in the Sky Guardian painting?
+wyvern
+
+Which friendly NPC is depicted in the Hallow's Eve painting?
+mechanic
+
+Which boss is depicted in the Facing the Cerebral Mastermind painting?
+brain of cthulhu
+
+Which friendly NPC is depicted riding a Unicorn in the Unicorn Crossing the Hallows painting?
+party girl
+
+The Something Evil is Watching You painting depicts the player wearing a full set of what armor?
+silver
+
+The Impact painting depicts the Hallow biome colliding with which other biome?
+crimson
+
+>> [Tooltips] --------------------------------------
+
+Which item's tooltip includes the name of the boss that it is dropped by?
+soul of might
+
+Which item's tooltip is "It's pretty, oh so pretty"?
+jungle rose
+
+Which item's tooltip is "Guts... and Gory!"?
+detonator
+
+Which item's tooltip is "It's made out of fire!"?
+fiery greatsword
+
+Which item's tooltip is "Allows the control of gravity"?
+gravitation potion
+
+Which item's tooltip is "Smells like bubblegum and happiness"?
+silly pink balloon
+
+Which item's tooltip is "Smells like mint and glee"?
+silly green balloon
+
+Which item's tooltip is "Smells like lavender and enthusiasm"?
+silly purple balloon
+
+Which item's tooltip is "Tied down for everyone's pleasure"?
+silly tied bundle of balloons
+
+Which item's tooltip is "Wuv... twue wuv.."?
+wedding veil
+
+Which item's tooltip is "Mawwiage..."?
+wedding dress
+
+Which item's tooltip is "Banned in most places"?
+illegal gun parts
+
+Which item's tooltip is "This is a good idea!"?
+sandgun
+
+Which item's tooltip is "It smells funny..."?
+red hat
+
+Which item's tooltip is "Grants slow fall in exchange for your feet"?
+djinn's curse
+
+Which item's tooltip is "Lights up bulbs for each wire color"?
+wire bulb
+
+Which item's tooltip is "Creates several crystal shards on impact"?
+crystal bullet
+
+Which item's tooltip is "Spits an Ichor stream on contact"?
+bladetongue
+
+Which item's tooltip is "Stacks up to 5"?
+light disc
+
+Which item's tooltip is "Immunity to petrification"?
+pocket mirror
+
+Which item's tooltip is "Productivity up 200%"?
+cog wall
+
+Which item's tooltip is "Right click to guard with a shield"?
+brand of the inferno
+
+Which item's tooltip is "Having a wonderful time!"?
+unicorn on a stick
+
+Which item's tooltip is "Allows you to go into stealth mode"?
+psycho knife
+
+Which item's tooltip is "Strike with the fury of the sun"?
+solar eruption
+
+Which item's tooltip is "From Orion's belt to the palm of your hand"?
+nebula blaze
+
+Which item's tooltip is "A pebble of the heavens"?
+luminite
+
+Which item's tooltip is "Susceptible to lava!"?
+companion cube
+
+Which item's tooltip is "Unleashes the heart's energy forward"?
+flying dragon
+
+The Sniper Rifle and Uzi share their tooltips with what other ranged weapon?
+venus magnum
+
+What is the exact tooltip of the biome keys prior to defeating Plantera?
+it has been cursed by a powerful jungle creature
+
+What is the only item other than the Pwnhammer with the tooltip "Strong enough to destroy Demon Altars"?
+hammush
+
+>> [Logic gates] -----------------------------------
+What's the probability that a faulty logic gate with 5 on lamps and 15 off lamps will activate? Answer as a percentage.
+25%
+
+What's the probability that a faulty logic gate with 7 on lamps and 3 off lamps will activate? Answer as a percentage.
+70%
+
+What's the probability that a faulty logic gate with 4 on lamps and 36 off lamps will activate? Answer as a percentage.
+10%
+
+What's the probability that a faulty logic gate with 42 on lamps and 0 off lamps will activate? Answer as a percentage.
+100%
+
+What's the probability that a faulty logic gate with 1 on lamp and 1 off lamp will activate? Answer as a percentage.
+50%
+
+What's the probability that a faulty logic gate with 130 on lamps and 270 off lamps will activate? Answer as a percentage.
+32.5%
+
+What's the probability that a faulty logic gate with 0 on lamps and 64 off lamps will activate? Answer as a percentage.
+0%
+
+>> [Pressure plates] -----------------------------
+Name a type of non-weighted pressure plate that can only be triggered by players.
+grey
+
+What type of pressure plate can only be triggered by NPCs and enemies?
+yellow
+
+Name a type of pressure plate that can only be triggered by players, NPCs, and enemies.
+red
+
+What color is the type of pressure pad that can ONLY be triggered by projectiles or pets?
+teal
+
+Name one type of pressure plate that can be triggered by any entity that steps on it.
+red
+
+>> [Gem colors] ----------------------------------
+What color is the Ruby gem?
+red
+
+What color is the Amber gem?
+orange
+
+What color is the Topaz gem?
+yellow
+
+What color is the Emerald gem?
+green
+
+What color is the Sapphire gem?
+blue
+
+What color is the Amethyst gem?
+purple
+
+What color is the Diamond gem?
+white
+
+>> [How many X] ------------------------------------
+
+How many different shortswords are there?
+8
+
+How many swords must be sacrificed to craft the Night's Edge?
+4
+
+How many different types of Phaseblade are there?
+6
+
+How many different yoyos are there?
+20
+
+How many different yoyos are craftable?
+5
+
+How many different yoyos can be held out indefinitely?
+6
+
+How many different yoyos are obtainable during pre-Hardmode?
+8
+
+How many different pre-Hardmode pickaxes have a pickaxe power of 100%?
+2
+
+How many pickaxes are tied for the lowest pickaxe power?
+3
+
+How many drills can be crafted?
+8
+
+How many hamaxes are there?
+8
+
+How many bows are there?
+29
+
+How many repeaters are there?
+9
+
+How many guns are there?
+25
+
+How many modifiers can only be obtained on ranged weapons?
+12
+
+How many different varieties of bullets are there?
+14
+
+How many different bullet variants are available during pre-Hardmode?
+4
+
+How many different types of rockets are there?
+4
+
+How many weapons use darts as ammo?
+4
+
+How many gem staves can be crafted in the PC version of the game?
+7
+
+How many magic weapons cannot be obtained without fishing?
+3
+
+How many magic tomes exist in the PC version?
+9
+
+How many different throwing weapons are there?
+20
+
+How many different fishing poles are in Terraria?
+9
+
+How many grappling hooks do not have "Hook" in their name?
+3
+
+How many different bait items are there?
+30
+
+How many different types of crates can be fished up in the game?
+9
+
+How many accessory slots are there without using a Demon Heart?
+5
+
+How many different strange plants are there?
+4
+
+How many different dyes (including Team Dye) are available in the PC version of the game?
+110
+
+How many different dyes can be used to make colored String?
+15
+
+How many variants of reflective dye are there?
+6
+
+How many pre-Hardmode enemy banners are there in the PC version?
+100
+
+How many different paintings are there?
+80
+
+How many different paintings can be found in the Underworld?
+12
+
+How many different paintings can be obtained from Goodie bags?
+5
+
+How many different paintings can be obtained from the Angler as a quest reward?
+1
+
+How many different Pre-Hardmode armor sets are there?
+34
+
+How many different Hardmode armor sets are there in the PC version?
+30
+
+How many CRAFTABLE armor sets don't grant a set bonus?
+2
+
+How many pets are in the PC version of the game?
+26
+
+How many Jellyfish Jars are there?
+3
+
+How many different emblem accessories are in the game?
+7
+
+How many different mounts are there?
+12
+
+How many different types of Solution are available?
+5
+
+How many different rarity colors are there?
+15
+
+How many total statues are there?
+108
+
+How many statues spawn enemies?
+21
+
+How many different functional statues can spawn Hardmode enemies?
+5
+
+How many statues teleport a random NPC when activated?
+2
+
+How many statues spawn critters?
+15
+
+How many golden critters are there?
+8
+
+How many critters have banners?
+4
+
+How many different anvils are there?
+4
+
+How many different kinds of ores (including obsidian) are acquirable?
+21
+
+How many different types of trees are there?
+8
+
+How many different blocks obey gravity?
+6
+
+How many different colors of moss are there?
+6
+
+How many different types of ore can be used in the crafting of potions?
+4
+
+How many different 'Soul of ___' items are there in the PC version?
+6
+
+How many different block placing wands are in the game in the PC version?
+6
+
+How many different usable keys are there in the PC version?
+10
+
+How many different biome keys are there?
+5
+
+How many different types of glowsticks are there?
+4
+
+How many different items grant the Well Fed buff upon consumption?
+13
+
+After using an Enchanted Sundial, how many in-game days must you wait before you can use it again?
+7
+
+How many different slippery blocks are there?
+7
+
+How many different colors of wires are there?
+4
+
+How many different colors of wire can traps naturally generate with?
+4
+
+How many different types of wood are there?
+9
+
+How many different personal storage items are there?
+3
+
+How many vase variants are there?
+5
+
+How many caged critters can be hung in bottles?
+2
+
+How many team colors are in the game?
+5
+
+How many Liquid Sensor variants are there?
+4
+
+How many herbs are there?
+7
+
+How many moon phases are in the game?
+8
+
+How many enemies can only be found in Granite or Marble biomes?
+4
+
+How many different debuffs can be inflicted by enemies?
+29
+
+>> [How many X (Crafting edition)] -----------------
+One wood and one gel can make how many torches?
+3
+
+How many types of torches are in the game?
+16
+
+How many different items can be crafted with Copper Ore?
+3
+
+How many lenses are required to craft the Suspicious Looking Eye?
+6
+
+How many Wooden Arrows can be crafted with 13 stone and 17 wood in the PC version?
+325
+
+How many types of campfires can be crafted?
+8
+
+How many metal bars are required to craft a watch?
+10
+
+How many Iron bars do you need to craft an inlet pump?
+10
+
+How many Iron Bars are required to make an Announcement Box?
+4
+
+How many different recipes are the Illegal Gun Parts used in?
+3
+
+How much topaz do you need to craft the Sandgun?
+5
+
+The Fiery Greatsword requires how many Hellstone bars to craft?
+20
+
+How many Hellstone bars are needed to make a full set of Molten Armor?
+45
+
+How many swords are used to craft the Night's Edge?
+4
+
+How many total Rotten Chunks are required to craft a set of Archaeologist's Jacket and Pants?
+150
+
+How many Jungle Spores are required to craft a full set of Jungle armor?
+32
+
+How many Meteorite bars are required to craft 1000 Meteor Shots?
+15
+
+How many souls of light are needed to craft the Crystal Storm?
+15
+
+How many different animal cages can be crafted with a terrarium?
+28
+
+How many Sturdy Fossils are required to craft the Amber Staff?
+15
+
+How many Mythril bars are needed to create a Mythril Anvil?
+10
+
+How many souls of flight are needed to craft certain wings?
+20
+
+How many Crystal Shards are required to craft a Phasesaber?
+50
+
+How much wire is required to craft The Grand Design?
+60
+
+How many unique ingredients are used to craft the Mechanical Eye, used to summon The Twins?
+3
+
+How much Chlorophyte ore is needed to craft all three helmet variants that can be crafted with it?
+216
+
+How many TOTAL accessories are required to craft the Master Ninja Gear?
+4
+
+How much ectoplasm do you need to craft all Spectre equipment?
+88
+
+How many different kinds of bars do you need to make the Drill Containment Unit?
+6
+
+If you had 1500 gold coins, how many platinum coins could you make?
+15
+
+How many TOTAL ingredients does the Cell Phone require to craft?
+13
+
+How many celestial fragments are required to create any one full celestial armor set?
+45
+
+How many Iron bars do you need to craft 252 iron fences?
+63
+
+How many different Music Boxes are needed to craft Music Box (Title)?
+12
+
+What is the only music box that can be obtained through crafting in the PC version?
+title
+
+How many TOTAL ingredients does the Ankh Charm require to craft?
+9
+
+How many Spider Fangs are required to craft a full set of Spider armor?
+36
+
+How many Luminite bars are required to craft all 4 different post Moon Lord armor sets?
+144
+
+How many Luminite Bullets can you craft per Luminite bar?
+333
+
+>> [Hair] ------------------------------------------
+How many different hairstyles are available at character creation?
+51
+
+How many hairstyles are only available through the Stylist?
+83
+
+How many different hairstyles include an 'ahoge' (a single strand sticking out at the top)?
+4
+
+How many different gender-exclusive hairstyles are there?
+0
+
+What number is the bald hairstyle?
+16
+
+What number is the afro hairstyle?
+17
+
+>> [Dye] -------------------------------------------
+Which normal mode dye sells for the most coins?
+skiphs's blood
+
+What is the only developer item that can be obtained in normal mode?
+skiphs's blood
+
+Which is the only item that can be rewarded to the player upon opening a treasure bag in Hardmode, or by offering a strange plant to the Dye Trader after defeating the Moon Lord?
+skiphs's blood
+
+What is the only dye that requires bars to be crafted?
+void
+
+Which single dye requires the most total materials to craft?
+intense rainbow
+
+How many developers have their own unique dye (included with their vanity set) in the game?
+2
+
+Which hair dye can only be obtained in multiplayer?
+team
+
+Which dye turns items completely black?
+shadow
+
+How many dye ingredients in total are needed to craft one Rainbow Dye?
+9
+
+How many Strange Dyes are reflective?
+6
+
+>> [Rarity] ----------------------------------------
+What color rarity are Expert-exclusive items?
+rainbow
+
+Excluding rainbow and amber, how many different colors of rarity are there?
+13
+
+What color rarity are quest items?
+amber
+
+What color rarity are Strange Plants?
+amber
+
+Excluding rainbow and amber, what color is the highest rarity in the game?
+purple
+
+>> [Modifiers] -------------------------------------
+How many TOTAL modifiers are in the game?
+83
+
+How many modifiers can only be obtained on magic and summoning weapons?
+12
+
+What name is used by two different modifiers?
+deadly
+
+Which modifier grants the highest damage increase?
+ruthless
+
+Which modifier grants the highest damage for summoning weapons?
+ruthless
+
+Which modifier provides the highest mining speed for pickaxes?
+light
+
+What is the best prefix for most of the melee weapons?
+legendary
+
+What is the best prefix for most of the ranged weapons? {{PLACEHOLDER}}
+unreal
+
+What is the best prefix for most of the magic weapons? {{PLACEHOLDER}}
+mythical
+
+What is the best prefix to increase your defense on accessories? {{PLACEHOLDER}}
+warding
+
+What is the best prefix to increase your damage on accessories? {{PLACEHOLDER}}
+menacing
+
+Which accessory prefix provides the highest increase to melee speed?
+violent
+
+What is the best prefix to increase critical stike chance of accessories? {{PLACEHOLDER}}
+lucky
+
+How much mana do you gain from having the Arcane prefix on accessories?
+20
+
+>> [Misc.] -----------------------------------------
+What is the maximum number of items that can be put in 1 stack?
+999
+
+What is the max number of item stacks that can be held within one chest?
+40
+
+What is the maximum stack size for Lesser Mana Potions?
+50
+
+What is the maximum attainable critical strike chance?
+154%
+
+Including the usage of items and buffs, what's the highest attainable amount of mana?
+400
+
+What is the highest attainable defense in Expert mode?
+173
+
+What is the maximum amount of dirt blocks a player can hold in their inventory?
+49950
+
+What is the maximum amount of fallen stars the player can hold in their inventory in the PC version?
+5346
+
+What is the only non-consumable item crafted at a Demon/Crimson altar?
+night's edge
+
+What is the only craftable mount?
+drill containment unit
+
+Which pre-Hardmode mount performs the best in water?
+turtle
+
+Which mount travels the fastest underwater?
+cute fishron
+
+Which mythological animal is summoned as a mount with the Blessed Apple?
+unicorn
+
+How many different items grant the ability to walk on lava?
+2
+
+How many copper coins is one platinum coin worth?
+1000000
+
+Which projectile-firing spear can be acquired the earliest progression-wise?
+mushroom
+
+What is the only hardcore-exclusive item in the game?
+0x33's aviators
+
+Name a type of Lunar Fragment.
+solar
+
+====================================================
+
+> [Buffs] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is the maximum number of buffs you can have simultaneously on the PC version?
+22
+
+How many different fire-based debuffs can the player inflict?
+4
+
+>> [Tooltips/Appearance] ---------------------------
+Which NPC is depicted on the icon for the On Fire! debuff?
+guide
+
+Which mount buff has the tooltip "Now you see me..."?
+pigron
+
+What is the buff tooltip for the Bee Mount buff?
+Bzzzbzzbzzzzbzzz
+
+Which buff's tooltip is "The power of nature protects you"?
+dryad's blessing
+
+>> [Effects] ---------------------------------------
+Which debuff prevents building and breaking blocks?
+creative shock
+
+Excluding debuffs that inhibit movement, which debuff prevents the use of non-equipped items?
+cursed
+
+Which buff potion boosts enemy spawn rate?
+battle
+
+Which debuff decreases defense while increasing melee stats?
+tipsy
+
+Which debuff prevents life regeneration?
+bleeding
+
+How much does the Ichor debuff lower defense by?
+20
+
+Excluding obsidian, name a type of ore that the Spelunker Potion does not work on.
+hellstone
+
+How many seconds would the Potion Sickness debuff last on a player that has both the Philosopher's Stone and the Charm of Myths equipped?
+45
+
+How much defense does the Betsy's curse debuff decrease?
+40
+
+Which debuff increases your damage output?
+feral bite
+
+Name a debuff that prevents player movement.
+frozen
+
+How much damage does the shadowflame debuff deal per second (without the Oiled debuff)?
+15
+
+Which debuff prevents the use of weapons without impeding movement?
+cursed
+
+Which debuff has the largest number of associated death messages?
+stoned
+
+Which Flask allows you to inflict a debuff that cannot affect player characters?
+gold
+
+By how much does the Weak debuff reduce your defense?
+4
+
+>> [Inflicting] ------------------------------------
+Which debuff do Dart Traps inflict?
+poisoned
+
+Which debuff does lava inflict?
+on fire
+
+Which debuff do flares inflict?
+on fire
+
+Which consumable inflicts the Tipsy debuff for the longest time?
+sake
+
+Which debuff is inflicted when the player is in contact with Meteorite, Hellstone or Hellstone bricks?
+burning
+
+Which enemy inflicts the webbed debuff?
+black recluse
+
+Which buff do sunflowers give when within a 50-tile radius of the player?
+happy
+
+What is the only debuff you can get from touching water?
+chilled
+
+What debuff is inflicted by the Dreamer Ghoul?
+confused
+
+Name a food item that provides the Well Fed buff for only 10 minutes.
+pad thai
+
+What is the name of the buff provided by the Frozen Turtle Shell?
+ice barrier
+
+What is the only debuff that the Lunatic Cultist can inflict?
+on fire!
+
+How many minutes does the Clairvoyance buff last?
+10
+
+====================================================
+
+> [Blocks] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How many different bouncy blocks are there?
+4
+
+How many different types of brick can Jungle Shrines be made of?
+5
+
+What type of purchaseable block causes players to bounce upon being landed on?
+silly balloons
+
+What is the Crimson variant of wood?
+shadewood
+
+Which block is immune to explosions only during pre-Hardmode?
+hellstone
+
+How many pairs of alternative ores are in Terraria?
+8
+
+Name a type of wood that's Hardmode-exclusive.
+pearlwood
+
+Which naturally generated, solid block drops nothing when destroyed and cannot placed in any way?
+thin ice
+
+Which solid block has "Beam" in its name?
+adamantite beam
+
+Starting from rest, how far (in blocks) must a player fall in order to break Thin Ice?
+4
+
+True or false: Pumpkins can be grown outside of the Halloween season.
+true
+
+What is the toughest block in the game?
+lihzahrd brick
+
+What block requires 210% pickaxe power to mine?
+lihzahrd brick
+
+Which block requires the highest pickaxe power to mine?
+lihzahrd brick
+
+Fallen Stars can used to craft which block?
+sunplate
+
+Which ore is the alternative version of Iron Ore?
+lead
+
+Which metal is the alternative to Cobalt?
+palladium
+
+What is the base damage of the Explosives trap?
+500
+
+What is the second ingredient in a Hellstone Bar, aside from Hellstone Ore?
+obsidian
+
+Which block forms when honey and water collide?
+honey
+
+Which block forms when honey and lava collide?
+crispy honey
+
+Which block forms when lava and water collide?
+obsidian
+
+Excluding Luminite, what is the highest tier ore that can be mined with the Mythril Pickaxe?
+titanium
+
+Which block greatly increases your maximum running speed?
+asphalt
+
+Out of Asphalt blocks, Lightning Boots, and the Blessed Apple; which one boosts maximum movement speed the most?
+blessed apple
+
+>> [Furniture/Non solids] --------------------------
+What is the only banner with a width of two tiles?
+war table
+
+Which Magic Dropper requires a block in order to be crafted?
+sand
+
+What item will the first Shadow Orb smashed in a world drop?
+musket
+
+What item will the first Crimson Heart smashed in a world drop?
+undertaker
+
+What wall decoration can be obtained by opening Presents?
+holly
+
+How many placeable items can fire ammunition that you place into them?
+4
+
+Excluding coins, how many different items can a pigronata drop?
+3
+
+How many different colors of Starfish are there?
+3
+
+Which tree type doesn't drop acorns?
+giant glowing mushroom
+
+What is the only Sofa whose sprite does not depict a back rest?
+dynasty
+
+Which functional statue drops a stackable item when activated?
+bomb
+
+True or false: The Mushroom Statue can be activated using wires.
+true
+
+What is the minimum amount of money the player needs to be carrying in order to drop a golden tombstone upon death?
+10g
+
+What furniture item, when interacted with, increases the player's minion capacity by 1?
+bewitching table
+
+True or false: Adamantite/Titanium appears in a world after breaking the second Demon/Crimson Altar.
+false
+
+With no damage negation, what percentage of the player's health is received as damage when hitting a Demon/Crimson Altar with a pre-Hardmode hammer?
+50
+
+True or false: Demon/Crimson Altars can be broken in a pre-Hardmode world.
+false
+
+Which statue resembles the knight chess piece?
+unicorn
+
+How many different blocks can be combined with regular Torches to create a new type of torch?
+3
+
+What type of tree's sapling requires the most space in order to grow?
+palm
+
+What is the only type of tree on which you cannot place Torches?
+palm
+
+How many different furniture items grant the player a buff upon using them?
+4
+
+What is the only statue without a base?
+pillar
+
+>> [Herb] ------------------------------------------
+Which herb only blooms during sunset in the PC version?
+fireblossom
+
+When do waterleaves bloom?
+rain
+
+====================================================
+
+> [Events] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+During the Slime Rain event, how many slimes do you have to kill for the King Slime to spawn within your world for the first time?
+150
+
+Which boss shows up during the Slime Rain event?
+king slime
+
+What is the only true non-hostile event in terraria?
+party
+
+What are the odds of a Blood Moon happening each in-game day once the base conditions are met? Answer as a fraction in simplest form.
+1/9
+
+Name a critter that turns into an enemy during a Blood Moon.
+bunny
+
+Which critter with "Gold" in its name does not sell for 10 gold?
+goldfish
+
+Through which event is the Money Trough obtainable?
+blood moon
+
+How many different types of goblins can spawn during the Goblin Army event?
+6
+
+How many different types of goblins are there?
+8
+
+Which pre-Hardmode goblin from the Goblin Army has the most health?
+warrior
+
+What type of Goblin cannot walk?
+sorcerer
+
+What is the only human invasion event in the game?
+pirate
+
+What sword can you obtain from a Pirate Invasion?
+cutlass
+
+How many different types of pirates can spawn during the Pirate Invasion Event?
+5
+
+What are the odds of a Solar Eclipse happening each in-game day once the base conditions are met? Answer as a fraction in simplest form.
+1/20
+
+What is the chance of 2 Solar Eclipses naturally occurring on 2 consecutive days? Answer as a fraction in simplest form.
+1/400
+
+Which furniture can be used to skip a Solar Eclipse?
+enchanted sundial
+
+What item can be used to skip time?
+enchanted sundial
+
+Which event can be summoned using an item crafted with 30 pumpkins, 5 ectoplasm and 10 hallowed bars?
+pumpkin moon
+
+Which accessory obtained from a non-naturally-occurring event can be used as a crafting ingredient at the Tinkerer's Workshop?
+necromantic scroll
+
+How many different trophies can you get from the Pumpkin Moon event?
+2
+
+What debuff do you get when in a desert during a sandstorm?
+mighty wind
+
+In Hardmode, what event can be summoned by an item obtained in presents
+frost legion
+
+What event is summoned using an item that can only be obtained during a specific season?
+frost legion
+
+How many different types of snowmen can spawn during the Frost Legion event?
+3
+
+Which pet summoning item can only be obtained through the Frost Moon event?
+baby grinch's mischief whistle
+
+On which wave of the Frost Moon does Krampus first appear?
+8
+
+How many waves does the post-Golem version of the Old One's Army event have?
+7
+
+How many different trophies can you get from the Old One's Army event?
+3
+
+Which enemy will trigger an invasion if it spots the player and is allowed to escape?
+martian probe
+
+Which non-boss enemy from the Martian Madness event has the highest health?
+martian walker
+
+What is the name of the creature that some Martians ride into battle?
+scutlix
+
+Which Celestial Pillar summons the largest variety of enemies?
+solar
+
+Which of the celestial pillars is orange?
+solar
+
+Which of the celestial pillars is green?
+vortex
+
+Which of the celestial pillars is pink?
+nebula
+
+Which of the celestial pillars is blue?
+stardust
+
+Excluding bosses, which enemy from the Lunar events has the second most health out of all?
+flow invader
+
+How many events are there in pre-Hardmode?
+7
+
+How many events are there in Hardmode?
+7
+
+True or false: There are 7 Hardmode bosses not tied to events.
+false
+
+How many different events have bosses/mini-bosses that drop their respective trophies in the PC version?
+5
+
+====================================================
+
+> [World] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+>> World statistic questions -----------------------
+At what in-game time does daytime begin?
+4:30 am
+
+What in-game time does a world start at after being loaded for the first time?
+8:15 am
+
+How many real-world minutes does daytime last in Terraria?
+15
+
+How many real-world minutes does nighttime last in Terraria?
+9
+
+At what time do bosses spawn naturally (without the use of summon items)?
+8:51 pm
+
+At what in-game time does nighttime begin?
+19:30
+
+How many different layers are there in a Terraria world?
+5
+
+Cobalt Ore and Palladium Ore spawn below what depth on a large world? Answer in either feet or tiles.
+635
+
+Mythril Ore and Orichalcum Ore spawn below what depth on a large world? Answer in either feet or tiles.
+2000
+
+Adamantite Ore and Titanium Ore spawn below what depth on a large world? Answer in either feet or tiles.
+1465
+
+At what height does the space biome start in a small world? Answer in feet.
+425
+
+What is the average start depth of the caverns on a large world? Answer in either feet or tiles.
+480
+
+>> [Biomes] ----------------------------------------
+
+>>> Surface ::::::::::::::::::::::::::::::::::::::::
+Which naturally-occurring projectile can damage enemies without a player's intervention?
+fallen star
+
+>>> Underground ::::::::::::::::::::::::::::::::::::
+
+How many different paintings can be found in Underground Cabins?
+15
+
+What item can be found stacked on the ground next to naturally-generated underground Campfires?
+silver coin
+
+>>> Desert :::::::::::::::::::::::::::::::::::::::::
+What vanity can be obtained from a chest within a pyramid?
+pharaoh
+
+>>> Sword Shrine :::::::::::::::::::::::::::::::::::
+What is the chance of getting an Arkhalis from a real Enchanted Sword Shrine?
+1/10
+
+Name a sword that can be obtained from an Enchanted Sword Shrine.
+arkhalis
+
+What is the chance of an Enchanted Sword Shrine being fake? Answer as a fraction in simplest form.
+2/3
+
+>>> Bee Hive :::::::::::::::::::::::::::::::::::::::
+What boss can you find in a beehive?
+queen bee
+
+True or false: Bee Hives can be found outside the Jungle.
+false
+
+>>> Crimson ::::::::::::::::::::::::::::::::::::::::
+
+True or false: The Crimson biome is purple-themed.
+false
+
+How many blocks are needed to create an artificial Corruption or Crimson biome?
+200
+
+In which biome can Herplings spawn?
+crimson
+
+True or false: The Crimson can overpower the Hallow.
+false
+
+Which Crimson enemy drops Vitamins?
+floaty gross
+
+>>> Jungle :::::::::::::::::::::::::::::::::::::::::
+Name a biome that always spawns on the opposite side of the world to the Jungle.
+snow
+
+Which item found in the Underground Jungle biome after the defeat of a mechanical boss increases the player's maximum health by 5 up to 500?
+life fruit
+
+What type of wood do trees in the Jungle biome drop?
+rich mahogany
+
+True or false: The Hallow cannot spread through the Jungle.
+true
+
+What is the most valuable critter that can be spawned by breaking background plants in the Jungle?
+buggy
+
+What functional furniture item is only found in Underground Cabins in the Jungle?
+sharpening station
+
+>>> Jungle Temple ::::::::::::::::::::::::::::::::::
+
+Which item is required to enter the Jungle temple?
+temple key
+
+>>> Floating Island ::::::::::::::::::::::::::::::::
+
+What is the maximum possible number of Floating Islands in a large world?
+8
+
+True or false: Floating islands cannot be hit by meteorites.
+false
+
+Which non-quest fish can only be fished up on a Floating Island?
+damselfish
+
+What is the maximum number of Floating Islands that can be generated in a world?
+8
+
+>>> Snow :::::::::::::::::::::::::::::::::::::::::::
+Which debuff does being in water in the Snow biome inflict in Expert mode?
+chilled
+
+>>> Dungeon ::::::::::::::::::::::::::::::::::::::::
+How many different biome chests are there in the Dungeon?
+5
+
+How many different paintings can be found in the Dungeon?
+24
+
+In which biome can you obtain ectoplasm?
+dungeon
+
+How many different colors can the Dungeon be?
+3
+
+How many different types (not colors) of Dungeon walls are there?
+3
+
+True or false: The Dungeon is always found on the same side of the map as the Jungle.
+false
+
+Where can the Water Bolt be found?
+dungeon
+
+How many different dungeon-exclusive items can be found in a golden lock box?
+7
+
+What is inside the Frozen Biome chest? {{PLACEHOLDER}}
+staff of the frost hydra
+
+What is inside the Hallowed Biome chest? {{PLACEHOLDER}}
+rainbow gun
+
+What weapon is inside the locked Corruption Chest?
+scourge of the corruptor
+
+What is inside the Jungle Biome chest? {{PLACEHOLDER}}
+piranha gun
+
+What is inside the Crimson Biome chest? {{PLACEHOLDER}}
+vampire knives
+
+In what type of chest are the Vampire Knives found?
+crimson
+
+>>> Mushroom :::::::::::::::::::::::::::::::::::::::
+Which biome would you spread using dark blue solution?
+mushroom
+
+True or false: Mushroom grass stops the spread of Crimson.
+true
+
+>>> Underworld :::::::::::::::::::::::::::::::::::::
+True or false: Water that enters the Underworld evaporates.
+true
+
+>>> Ocean ::::::::::::::::::::::::::::::::::::::::::
+In which biome can you get the Pirate Map?
+ocean
+
+====================================================
+
+> [Enemy & Boss] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> [Enemy/Boss general] ----------------------------
+How many invincibility frames do enemies get upon being hit by piercing damage?
+10
+
+How much TOTAL health does the Moon Lord have in Expert mode?
+217500
+
+How many segments does the Eater of Worlds have, including its head and tail?
+50
+
+The Pigron is a combination of a pig and what other creature?
+dragon
+
+Which enemy is based on a real amphibian?
+salamander
+
+What is the only known female human enemy?
+pirate crossbower
+
+Which pre-Hardmode boss has a unique music theme?
+queen bee
+
+Which boss shares its music theme with the Lunatic Cultist?
+golem
+
+How many variants of Sand Sharks exist?
+4
+
+What enemy replaces the Sand Shark in a Corrupt Desert?
+bone biter
+
+What enemy replaces the Sand Shark in a Crimson Desert?
+flesh reaver
+
+What enemy replaces the Sand Shark in a Hallow Desert? {{PLACEHOLDER}}
+crystal thresher
+
+What is the Crimson variant of the Demon Eye called?
+cataract eye
+
+Which mini-boss can deal the highest amount of damage in a single attack?
+martian saucer
+
+Which enemy spawns lava upon death in Expert mode?
+lava slime
+
+Other than the Gastropod, name a slime variant that can shoot projectiles.
+spiked slime
+
+Which corrupt critter deals the most base damage in normal mode?
+goldfish
+
+Which type of mimic is in the game files but unused?
+jungle
+
+Which boss must be defeated in order to enter the Dungeon?
+skeletron
+
+Which enemy that spawns in a Solar Eclipse is completely original to Terraria?
+eyezor
+
+Which Hardmode boss has to be killed before biome chests can be unlocked?
+plantera
+
+How many arms does Skeletron Prime have?
+4
+
+Which enemy is the most susceptible to knockback?
+pinky
+
+Which boss can only be summoned in the Underworld?
+wall of flesh
+
+True or false: The mechanical bosses can be fought against in pre-Hardmode.
+true
+
+Excluding the Jungle Mimic and counting the regular, gold, and shadow mimics as the same variant; how many variants of mimics are there?
+6
+
+How many different boss and mini-boss masks are there in the PC version?
+18
+
+How many non-event bosses are in the PC version of the game?
+15
+
+How many different trophies can you get from non-event bosses in the PC version?
+16
+
+Including bosses and excluding critters, how many worm type enemies are in the PC version?
+12
+
+Excluding Gastropods and holiday variants, how many variants of slime are there?
+26
+
+How many spiked slime variants are there?
+3
+
+How many different bosses can teleport in Expert mode?
+5
+
+How many different bosses have their own unique soundtrack in the PC version?
+3
+
+How many different mechanical bosses are there?
+3
+
+How many immobile Caster AI enemies are there?
+8
+
+Name a boss/mini-boss that has its own unobtainable treasure bag.
+ogre
+
+What is the only non-event boss that doesn't drop a treasure bag in Expert mode?
+lunatic cultist
+
+True or false: Duke Fishron must be defeated before the Lunatic Cultist can be fought.
+false
+
+True or false: Duke Fishron can be fought before Plantera.
+true
+
+Which non-event Hardmode boss is optional before challenging the Moon Lord?
+duke fishron
+
+Which boss must you defeat first in order to unlock the ability to summon the Lunatic Cultist?
+golem
+
+Including unobtainable ones, how many different treasure bags are there?
+18
+
+Name an arm of Skeletron Prime.
+saw
+
+Which enemy deals the most damage in a single hit?
+dungeon guardian
+
+Which enemy/boss has the most health of any one entity?
+destroyer
+
+Name one of The Twins.
+retinazer
+
+What ore can be mined upon defeating all of the three mechanical bosses?
+chlorophyte
+
+After which boss can you get ectoplasm?
+plantera
+
+How many variants of Rusty Armored Bones are there?
+4
+
+How many variants of Hell Armored Bones are there?
+4
+
+How many variants of Blue Armored Bones are there?
+4
+
+How many types of birds are there?
+4
+
+Which celestial pillar is the Warrior class associated with?
+solar
+
+Which celestial pillar is the Ranger class associated with?
+vortex
+
+Which celestial pillar is the Mage class associated with?
+nebula
+
+Which celestial pillar is the Summoner class associated with?
+stardust
+
+Which is the only celestial pillar that can deal damage on its own?
+solar
+
+How many non-event bosses can be fought in pre-Hardmode?
+7
+
+>> [Enemy/Boss behavior] --------------------------
+Which critter uses the same AI as slimes?
+grasshopper
+
+Which enemy can be teleported by a player's own Magic Mirror?
+brain suckler
+
+Name a slime variant that spawns one or more other slimes upon death.
+mother slime
+
+Which pre-Hardmode enemy has the lowest spawn chance?
+pinky
+
+On average, how many hits would a Man Eater take to kill a player with 200 health in Expert mode in Hardmode?
+4
+
+How many slime variants spawn one or more other slimes upon death?
+4
+
+The message "You feel an evil presence watching you..." signals the arrival of which boss?eye of cthulhu
+
+True or false: Skeletron can only be fought in Hardmode.
+false
+
+How fast does the Dungeon Guardian move in mph?
+41
+
+Which enemy exclusively spawns at high altitudes during pre-Hardmode?
+harpy
+
+What is the only boss that summons blocks upon death?
+wall of flesh
+
+Which boss instantly kills the player if they try to run away?
+wall of flesh
+
+Which enemy spawns when you smash a Demon/Crimson Altar?
+wraith
+
+Other than the Gastropod, what is the only slime variant that can fly in the PC version?
+slimer
+
+During which moon phase do Werewolves spawn?
+full
+
+Name an Underground Crimson enemy that can move through blocks.
+floaty gross
+
+Background plants within the jungle have a chance of spawning 3 different bugs when destroyed: buggy, sluggy and what other bug?
+grubby
+
+Which biome do Rainbow Slimes spawn in during the rain?
+hallow
+
+Which mini-boss spawns during the Pirate Invasion event?
+flying dutchman
+
+The Bone Lee enemy starts spawning in the Dungeon after the defeat of which boss?
+plantera
+
+What Hardmode boss can summon the Phantasm Dragon?
+lunatic cultist
+
+Which enemy can the Lunatic Cultist only summon in Expert mode?
+ancient doom
+
+Which enemy can the Lunatic Cultist only summon if there is a Phantasm Dragon alive?
+ancient vision
+
+Which female mini-boss shows up during the Frost Moon event?
+ice queen
+
+Which boss would spawn if you saw the message "You feel the air getting colder around you..."?
+skeletron prime
+
+Which boss would spawn if you saw the message "You feel vibrations from deep below..."?
+destroyer
+
+Which boss would spawn if you saw the message "This is going to be a terrible night..."?
+twins
+
+Name a boss that becomes enraged when led away from its home biome.
+plantera
+
+Which boss becomes enraged if not fought underground?
+plantera
+
+What do Sharknados turn into in Duke Fishron's second phase?
+cthulhunados
+
+What is the name of the tornado that Duke Fishron summons in its second phase?
+cthulhunados
+
+Tesla Turrets are built by which enemy?
+martian engineer
+
+What is the name of the enemy that rides the Scutlix creature?
+scutlix gunner
+
+Which enemy does the rider of the Scutlix enemy turn into if the Scutlix is killed before the rider?
+ray gunner
+
+What is the base damage of the Lunatic Devote enemy?
+0
+
+What is the Splinterling's base damage?
+100
+
+What is the base damage of a single missile fired by Santa-NK1 in Expert mode?
+168
+
+What is the base damage of the ranged attack of the Hoplite in Expert mode?
+96
+
+Excluding bosses and mini-bosses, how many total unique event enemies are there?
+112
+
+How many real-world minutes will the Moon Lord take to arrive after the message "Impending doom approaches..." is displayed?
+1
+
+>> [Enemy/Boss debuffs/immune] ---------------------------
+
+Which debuff does the Wall of Flesh inflict while the player is in its range?
+horrified
+
+Name a debuff that the Ice Queen can inflict.
+frozen
+
+Which enemy inflicts the webbed debuff?
+black recluse
+
+Which enemy inflicts the Obstructed debuff?
+brain suckler
+
+Which debuff does each hand of Skeletron have a chance to inflict?
+slow
+
+Name one of the 2 debuffs EVERY slime variant is immune to.
+venom
+
+What is the only debuff the Moon Lord is immune to?
+confused
+
+Excluding the celestial pillars, name a non-event boss that is immune to all debuffs in the PC version.
+destroyer
+
+How many seconds does the Silenced debuff last for when hit by a Pixie in Expert mode?
+14
+
+What is the only boss that can inflict the Feral Bite debuff?
+duke fishron
+
+>> [Enemy/Boss appearance] -------------------------
+How many teeth does the Eye of Cthulhu have in its second phase?
+8
+
+How many gems are visible on the King Slime's crown?
+7
+
+Which Underground Crimson enemy resembles the Blood Lust Cluster?
+crimson axe
+
+The Enchanted Sword enemy has a sprite similar to which weapon?
+excalibur
+
+What is the only slime enemy that has a face?
+toxic sludge
+
+Which of The Twins has a red iris?
+retinazer
+
+Which of The Twins has a lime iris?
+spazmatism
+
+Which Hardmode enemy is a stronger version of the pre-Hardmode enemy Tim?
+rune wizard
+
+What is the first immobile caster enemy you can encounter that fires indestructible projectiles?
+rune wizard
+
+>> [Enemy/Boss drops] ------------------------------
+
+Per how many kills of a specific enemy does the respective banner of that enemy drop?
+50
+
+During a Blood Moon, which storage item has a chance of dropping from the Blood Zombie and the Drippler?
+money trough
+
+What ingredient, used in crafting the Fart in a Jar, has a chance of dropping from Giant Worms and Diggers?
+whoopie cushion
+
+Which enemy is the most likely to drop the Slime Staff?
+pinky
+
+Which enemy drops the Mandible Blade?
+antlion charger
+
+Which pre-Hardmode enemy drops nothing in Hardmode?
+meteor head
+
+What is the chance of a Sand Slime dropping the Slime Staff in Expert mode?
+1/5600
+
+On average, how many Goblin Peons need to be killed to get a Harpoon?
+200
+
+What is the drop rate of the Binoculars in normal mode? Answer as a percentage.
+2.5%
+
+What is the drop rate of the Brain Scrambler?
+1%
+
+What is the only boss that drops Healing Potions, and not Lesser or Greater Healing Potions?
+wall of flesh
+
+Which armor set can be dropped by Hornets?
+ancient cobalt
+
+The Eater of Souls enemy has a small chance of dropping pieces from which armor set? {{PLACEHOLDER}}
+ancient shadow
+
+What is the chance for the Eater of Souls to drop any individual piece of Ancient Shadow armor? Answer as a fraction in simplest form.
+1/525
+
+Which item drops from all enemies except Meteor Heads and statue-spawned enemies during the Halloween seasonal event?
+goodie bag
+
+Which enemy can drop a Shackle?
+zombie
+
+How many different emblems can drop from the Wall of Flesh?
+4
+
+How many different weapons are dropped by the Goblin Summoner?
+3
+
+What melee weapon is dropped by the Goblin Summoner? {{PLACEHOLDER}}
+shadowflame knife
+
+What ranged weapon is dropped by the Goblin Summoner?
+shadowflame bow
+
+What magic weapon is dropped by the Goblin Summoner?
+shadowflame hex doll
+
+What ranged weapon can be dropped by Corrupt Mimics?
+dart rifle
+
+Which yoyo has a small chance of being dropped by enemies in the ice biome during Hardmode?
+amarok
+
+Which yoyo has a chance of dropping from Jungle enemies after one mechanical boss is defeated?
+yelets
+
+Which yoyo has a chance to drop from post-Plantera Dungeon enemies?
+kraken
+
+What enemy other than the Ichor Sticker can drop Ichor?
+tainted ghoul
+
+What weapon can only be obtained from Armored Skeletons?
+beam sword
+
+What accessory is only dropped by Werewolves?
+moon charm
+
+Which sword has a rare chance of dropping from post-Plantera skeleton enemies in the Dungeon?
+keybrand
+
+What enemy can drop two different debuff immunity accessories?
+pixie
+
+What hook is dropped by Skeletron?
+skeletron hand
+
+Which light pet item drops from certain post-Plantera Dungeon enemies?
+wisp in a bottle
+
+Which enemy drops the materials required to craft Turtle armor?
+giant tortoise
+
+What is the drop rate of the Death Sickle in Expert mode in the PC version? Answer as a fraction in simplest form.
+1/27
+
+What is the drop rate of the Plumber's Hat from Fire Imps? Answer as a fraction in simplest form.
+1/250
+
+What is the chance of the Pirate Captain dropping the Coin Gun? Answer as a fraction in simplest form.
+1/2000
+
+What type of wood can only be obtained by killing enemies?
+spookie
+
+Which item, dropped from an enemy during a Solar Eclipse, transforms the player into merfolk form?
+neptune's shell
+
+Which item has the lowest drop rate of any enemy-dropped item?
+slime staff
+
+Which boss drops 0x33's Aviators if fought in Expert mode with a hardcore character?
+eye of cthulhu
+
+With the exception of any sort of Healing Potions and loot bag contents, which non-event boss has no guaranteed drops?
+skeletron
+
+Which boss has 2 different trophies?
+twins
+
+Name one of the 2 bosses that drop the most amount of coins.
+golem
+
+Which Golem drop has the lowest drop chance?
+golem trophy
+
+How many different items can the Martian Saucer mini-boss drop upon death?
+11
+
+Including the treasure bag AND its contents, how many unique potential drops does the Moon Lord have?
+17
+
+How many different weapons can the Moon Lord drop?
+9
+
+What pet is dropped by Pumpking?
+spider egg
+
+What is the chance of any one weapon dropping from the Moon Lord? Answer as a fraction in simplest form.
+1/9
+
+Excluding event bosses, what is the only boss that doesn't drop any coins?
+moon lord
+
+Name one of the 2 magic weapons the Moon Lord can drop upon being defeated.
+last prism
+
+Which boss is the only source of Luminite?
+moon lord
+
+What type of souls drop from Skeletron Prime?
+fright
+
+What type of souls drop from The Destroyer?
+might
+
+What type of souls drop from The Twins?
+sight
+
+What type of souls drop from Wyverns?
+flight
+
+>> [Which X drops from X] --------------------------
+Which Expert-exclusive accessory does the Eye of Cthulhu treasure bag drop?
+shield of cthulhu
+
+Which Expert-exclusive item does the Brain of Cthulhu treasure bag drop?
+brain of confusion
+
+Which Expert-exclusive item does the Queen Bee treasure bag drop?
+hive pack
+
+Which Expert-exclusive item does the Skeletron treasure bag drop?
+bone glove
+
+Which Expert-exclusive item does the Plantera treasure bag drop?
+spore sac
+
+Which Expert-exclusive item does the Golem treasure bag drop?
+shiny stone
+
+Which Expert-exclusive mount item does the Duke Fishron treasure bag drop?
+shrimpy truffle
+
+Which weapon has a rare chance of dropping from Cave Bats?
+chain knife
+
+Which yoyo can drop from the Giant Shelly?
+rally
+
+Which mount item is dropped by the King Slime?
+slimy saddle
+
+Which pickaxe is dropped by The Undead Miner?
+bone
+
+Which sword has a chance of being dropped by Queen Bee?
+bee keeper
+
+What armor item has a chance of being dropped by sharks?
+diving helmet
+
+What magic weapon can be dropped by Skeletron?
+book of skulls
+
+What weapon can Skeletron drop in normal mode?
+book of skulls
+
+What is the name of the hammer dropped by the Wall of Flesh?
+pwnhammer
+
+What is the only weapon that non-biome specific mimics can drop in the PC version?
+magic dagger
+
+Which accessory dropped by Mimics decreases the duration of the Potion Sickness debuff by 15 seconds?
+philosopher's stone
+
+Which accessory does the Slimeling drop?
+blindfold
+
+What weapon is dropped by Clowns?
+bananarang
+
+Besides Bananarangs, what else can the Clown enemy drop?
+trifold map
+
+Which gun has a small chance of being dropped by Plantera?
+venus magnum
+
+Which enemy has a chance of dropping the Daedalus Stormbow?
+hallowed mimic
+
+What type of bar do the mechanical bosses drop?
+hallowed
+
+What item does the Ice Golem have a 100% chance to drop?
+frost core
+
+Which weapon is exclusively dropped by Black Recluses?
+poison staff
+
+What item does the Dungeon Guardian drop?
+bone key
+
+The Tactical Skeleton has a chance of dropping which vanity item?
+swat helmet
+
+Which accessory is dropped by Bone Lee and allows its wearer to dash?
+tabi
+
+Which gun has a small chance at dropping when Angry Trappers are killed?
+uzi
+
+Which accessory is a rare drop from Ice Tortoises?
+frozen turtle shell
+
+What weapon does Dr. Man Fly drop?
+toxic flask
+
+Which flail has a chance of dropping when Plantera is killed?
+flower pow
+
+What is Plantera's rarest drop?
+the axe
+
+Which enemy can drop The Axe?
+plantera
+
+Which weapon drops from the Nailhead?
+nail gun
+
+Which material, dropped by the Golem, can be used to upgrade Turtle armor?
+beetle husk
+
+What is the only tool dropped by the Golem?
+picksaw
+
+What is the name of the yoyo dropped by the mothron?
+eye of cthulhu
+
+Which hook is dropped by the Martian Saucer?
+anti gravity
+
+Which item, dropped by the Martian Saucer, provides the player with a mount that grants infinite flight when used?
+cosmic car key
+
+Which weapon is dropped by the Red Devil?
+unholy trident
+
+What mask does the Lunatic Cultist drop?
+ancient cultist
+
+Which Expert-exclusive item does the Moon Lord drop besides the Suspicious Looking Tentacle?
+gravity glove
+
+>> [Which enemy drops X] ---------------------------
+Which enemy drops the Mandible Blade?
+antlion charger
+
+Which enemy drops the Umbrella Hat?
+umbrella slime
+
+What is the only boss that directly drops armor pieces?
+king slime
+
+Which enemy drops Vines?
+man eater
+
+Which vanity item does Doctor Bones drop?
+archaeologist's hat
+
+Which boss drops the Binoculars?
+eye of cthulhu
+
+Which enemy drops the Wizard Hat?
+tim
+
+Which enemy drops tattered cloth?
+goblin scout
+
+Which enemy drops Javelins?
+hoplite
+
+Which Dungeon enemy always drops a Golden Key?
+dungeon slime
+
+Which enemy drops the Nazar in the Dungeon?
+cursed skull
+
+Name an enemy that drops the Clothier Voodoo Doll.
+angry bones
+
+Which enemy drops the Top Hat?
+groom
+
+Which enemy drops Black Ink?
+squid
+
+Which enemy drops the Red Husk?
+cochineal beetle
+
+Which enemy drops the Violet Husk?
+lac beetle
+
+Which enemy drops the Guide Voodoo Doll?
+voodoo demon
+
+Which enemy drops Souls of Flight?
+wyvern
+
+Which enemy drops the Rod of Discord?
+chaos elemental
+
+Which enemy drops the Magic Quiver?
+skeleton archer
+
+Name an enemy that can drop the Frost Staff.
+ice golem
+
+Which enemy drops Butterfly Dust?
+moth
+
+What is the name of the pre-Hardmode enemy which can drop the Metal Detector?
+nymph
+
+Which enemy has a chance of dropping the Putrid Scent?
+corrupt mimic
+
+The Putrid Scent is the Corruption counterpart of which Crimson Mimic drop?
+flesh knuckles
+
+Which enemy has a chance of dropping the Life Drain?
+crimson mimic
+
+Which magic weapon can Crimson Mimics drop?
+life drain
+
+Which enemy has a chance to drop the Death Sickle?
+reaper
+
+Which enemy drops the Inferno Fork?
+diabolist
+
+Which enemy drops the Shadowbeam Staff?
+necromancer
+
+Which enemy drops the Spectre Staff?
+ragged caster
+
+Which enemy drops the Rocket Launcher?
+skeleton commando
+
+What drops the Eyeball Spring?
+eyezor
+
+Which enemy drops the Sniper Rifle?
+skeleton sniper
+
+Which enemy drops ectoplasm?
+dungeon spirit
+
+Which item does the Dungeon Spirit drop?
+ectoplasm
+
+Which summon item has a chance of dropping from Duke Fishron?
+tempest staff
+
+Which enemy drops The Eye of Cthulhu?
+mothron
+
+Which enemy drops the Brain Scrambler?
+scutlix gunner
+
+Which mini-boss has a chance of dropping the Christmas Tree Sword?
+everscream
+
+Which enemy drops the Razorpine?
+everscream
+
+What event boss drops the Reindeer Bells?
+ice queen
+
+>> [Dungeon spawns] --------------------------------
+A Dungeon area with which type of Dungeon wall is the Diabolist most likely to spawn in?
+tiled
+
+A Dungeon area with which type of Dungeon wall is the Skeleton Commando most likely to spawn in?
+brick
+
+A Dungeon area with which type of Dungeon wall is the Necromancer most likely to spawn in?
+brick
+
+A Dungeon area with which type of Dungeon wall is the Ragged Caster most likely to spawn in?
+slab
+
+A Dungeon area with which type of Dungeon wall is the Paladin most likely to spawn in?
+brick
+
+A Dungeon area with which type of Dungeon wall is the Skeleton Sniper most likely to spawn in?
+slab
+
+A Dungeon area with which type of Dungeon wall is the Tactical Skeleton most likely to spawn in?
+tiled
+
+====================================================
+
+> [NPC] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+>> [NPC general] -----------------------------------
+
+What is the maximum amount of health an NPC can have?
+250
+
+What is the first friendly NPC that the player will encounter?
+guide
+
+Which town NPC drops an item on death ONLY if they have a certain name?
+guide
+
+What name must the Guide have in order to drop the Green Cap?
+andrew
+
+What is the only town NPC the player cannot give coins to or receive coins from?
+guide
+
+Which NPC must die in order to summon the Wall of Flesh?
+guide
+
+What is the Angler doing when the player first finds him?
+sleeping
+
+Which NPC can be found asleep in the ocean biome?
+angler
+
+Which NPC instead of dying, leaves?
+angler
+
+Which NPC heals other NPCs upon taking damage?
+nurse
+
+When healing fellow NPCs, how much health does each individual syringe of the Nurse restore?
+20
+
+What color clothing does the Dryad wear?
+green
+
+According to the Dryad herself, how old is she in years?
+500
+
+Which friendly NPC wears a hard hat?
+demolitionist
+
+What species is the Witch Doctor?
+lihzahrd
+
+Which NPC defends themselves with Spiky Balls?
+goblin tinkerer
+
+Where can the Mechanic be found?
+dungeon
+
+What is the name of the friendly NPC found deep in the Dungeon?
+mechanic
+
+Which NPC can be found in a spider nest?
+stylist
+
+Which NPC has the lowest chance to spawn after fulfilling the necessary conditions?
+party girl
+
+Which weapon does the Skeleton Merchant NPC use?
+bone
+
+Which town NPC is unlocked after defeating a Goblin Army?
+goblin tinkerer
+
+Which NPC is unlocked after defeating one mechanical boss?
+steampunker
+
+Which NPC unlocks upon defeating the Queen Bee?
+witch doctor
+
+Which is the only NPC that is not damaged by enemies?
+old man
+
+Which is the only friendly NPC that does not defend against enemies?
+old man
+
+Which NPC becomes able to move in immediately upon defeating Skeletron?
+clothier
+
+Which NPC unlocks upon defeating Plantera?
+cyborg
+
+Which NPC unlocks upon defeating any one of the mechanical bosses?
+steampunker
+
+True or false: The Steampunker can be unlocked in a pre-Hardmode world.
+true
+
+What invasion do you need to defeat to get the Santa NPC?
+frost legion
+
+Which is the only NPC that gives you coins for free?
+tax collector
+
+How much money will the Tax Collector generate per real-world minute per housed NPC?
+50c
+
+What is the maximum amount of money the Tax Collecter can old?
+10g
+
+The Party Girl will defend herself against nearby enemies using what item?
+happy grenade
+
+What is the name of the only NPC that accepts Defender Medals as currency?
+tavernkeep
+
+How many different friendly NPCs are there in the PC version?
+26
+
+Excluding the Cyborg, how many friendly NPCs are not human?
+5
+
+How many different friendly NPCs have their own voodoo dolls?
+2
+
+How many friendly NPCs can drop items when they die?
+9
+
+How many different NPCs drop their weapons upon death?
+6
+
+How many NPCs cannot move into a house?
+3
+
+How many NPCs cannot be assigned to houses?
+3
+
+How many town NPCs sell wings?
+2
+
+How many different paintings does the Traveling Merchant sell?
+9
+
+How many different NPCs are found in a sleeping state and must be woken up to move into housing?
+2
+
+How many different NPCs are found in a bound state and must be rescued to move into housing?
+4
+
+How many different bosses involve the sacrifice of an NPC in the summoning process?
+2
+
+Which town NPC only moves in after there's housing available in a specific biome?
+truffle
+
+Who is the only NPC that the Truffle trusts?
+dryad
+
+Which is the only time-exclusive NPC in the PC version?
+santa claus
+
+>> NPC wares ---------------------------------------
+
+Without any debuffs, what is the maximum amount of coins the Nurse can charge the player to heal them?
+4s 49c
+
+How many different paintings does the Painter sell?
+14
+
+How many different kinds of wallpaper does the Painter sell?
+20
+
+Which NPC can drop a ranged weapon when killed?
+painter
+
+Who sells marshmallows?
+merchant
+
+Who do you buy the Minishark from?
+arms dealer
+
+Name a town NPC that sells another town NPC's clothing during Halloween.
+arms dealer
+
+What item does the Arms Dealer always sell in Hardmode that is unrelated to guns or bullets?
+unholy arrow
+
+How much does it cost to buy Illegal Gun Parts?
+25g
+
+What material sold by the Arms Dealer is used to craft six different types of Hardmode ammo?
+empty bullet
+
+Which item does the Clothier drop on death?
+red hat
+
+What item must be in your inventory in order to buy Tiki armor from the Witch Doctor?
+pygmy staff
+
+Which item does the Traveling Merchant drop upon death?
+peddler's hat
+
+What is the rarest item you can buy from the Traveling Merchant?
+angel halo
+
+Which item does the Stylist have a chance to drop when she dies?
+stylish scissors
+
+What is the fastest pre-Hardmode broadsword obtainable outside of Halloween?
+stylish scissors
+
+Which item does the Dye Trader have a chance of dropping upon death?
+exotic scimitar
+
+Which item does the Tavernkeep have a chance of dropping upon death?
+ale tosser
+
+Which item does the Party Girl have a chance of dropping upon death?
+happy grenade
+
+Which weapon does the Painter have a chance drop upon death?
+paintball gun
+
+Which NPC sells explosive items?
+demolitionist
+
+Which NPC sells water fountains?
+witch doctor
+
+Which armor set is sold by the Witch Doctor?
+tiki
+
+Which item sold by the Steampunker enables an easy method to spread certain biomes?
+clentaminator
+
+Which NPC sells the Clentaminator?
+steampunker
+
+Who sells all types of solution except dark blue?
+steampunker
+
+Out of all the items sold by the Steampunker that are locked behind certain moon phases, which single item is NOT sold during the same phases as the others?
+jetpack
+
+Which NPC must be present before the Pirate will sell you a Bunny Cannon?
+party girl
+
+What food item can be indirectly bought from the Party Girl?
+bacon
+
+Which hook is sold by the Steampunker?
+static
+
+Which NPC sells the cannon?
+pirate
+
+Which item does the Tax Collector have a chance of dropping upon death?
+classy cane
+
+Which NPC does the purified Tortured Soul turn into?
+tax collector
+
+Which NPC must be rescued from the Underworld?
+tax collector
+
+Which item turns the Tortured Soul into the Tax Collector?
+purification powder
+
+Name an NPC that sells items related to yoyos.
+skeleton merchant
+
+Name one of the 2 items sold by the Skeleton Merchant that reveal nearby treasure.
+magic lantern
+
+During which moon phase does the Skeleton Merchant sell the Magic Lantern?
+full
+
+Out of all the items sold by the Steampunker that are locked behind certain moon phases, which single item is NOT sold during the same phases as the others?
+jetpack
+
+Which item is the reward for the 10th Angler quest?
+angler hat
+
+Which item is the reward for the 15th Angler quest?
+angler vest
+
+Which item is the reward for the 20th Angler quest?
+angler pants
+
+What is the minimum number of Angler quests that need to be completed in order to obtain the Golden Fishing Rod?
+30
+
+What is the minimum number of Angler quests that need to be completed in order to obtain ALL of the Angler armor?
+20
+
+What is the chance of receiving Fin Wings from an Angler quest after the 10th quest? Answer as a a fraction in simplest form.
+1/70
+
+Which wings can be obtained via fishing quests?
+fin
+
+How many different trophies can you get from fishing quest rewards?
+4
+
+How many different types of animal skin can be purchased from the Traveling Merchant?
+3
+
+Which gun is sold by the Traveling Merchant ONLY after Hardmode is activated?
+gatligator
+
+Which weapon sold by the Traveling Merchant has the lowest chance of appearing in his inventory?
+gatligator
+
+How many items sold by the Traveling Merchant cost 1 platinum or more?
+2
+
+Which accessory sold by the Traveling Merchant increases the player's pickup range for mana stars?
+celestial magnet
+
+What is the most powerful yoyo sold by the Traveling Merchant?
+code 2
+
+Which accessory bought from the Traveling Merchant displays nearby rare enemies?
+lifeform analyzer
+
+What is the most expensive item in the game?
+companion cube
+
+What is the second most expensive item in the game?
+parrot cracker
+
+How much does the Companion Cube cost?
+5p
+
+What is the buy price of the Diamond Ring?
+2p
+
+How much does the Clentaminator cost?
+2p
+
+How much does it cost to buy Leaf Wings?
+1p
+
+How much does a Mushroom Spear cost?
+70g
+
+What is the price of the cheapest purchasable set of wings?
+40g
+
+What is the cost of the Minishark?
+35g
+
+How much money does it cost to buy 1 of every type of paint sold by the Painter?
+5s 25c
+
+How much does it cost to purchase 200 Spiky Balls?
+1g 60s
+
+What is the sell price of a Spectre bar?
+1g
+
+How much do the Rocket Boots sell for?
+1g
+
+Golden creatures sell for how much gold?
+10
+
+Which bars sell for the same amount as Spectre bars?
+shroomite
+
+Which bar sells for the most when sold to an NPC?
+luminite
+
+How much does it cost to buy a Toolbelt?
+10g
+
+>> NPC name questions ------------------------------
+
+Asher, Harley, and Trent are possible names of which NPC?
+guide
+
+Alfred, Gus, and Milton are possible names of which NPC?
+merchant
+
+Abigail, Emily, and Molly are possible names of which NPC?
+nurse
+
+Ahirom, Danel, and Kanmi are possible names of which NPC?
+dye trader
+
+Bazdin, Fikod, and Oten are possible names of which NPC?
+demolitionist
+
+Alalia, Evvie, and Shea are possible names of which NPC?
+dryad
+
+Andre, Jalen, and Tony are possible names of which NPC?
+arms dealer
+
+Abibe, Konah, and U'wa are possible names of which NPC?
+witch doctor
+
+Alfred, Eustace, and Pip are possible names of which NPC?
+clothier
+
+Amy, Lauren, and Sally are possible names of which NPC?
+mechanic
+
+Arback, Nort, and Ragz are possible names of which NPC?
+goblin tinkerer
+
+Annabel, Iris, and Ruby are possible names of which NPC?
+stylist
+
+Abraham, Mercer, and Willy are possible names of which NPC?
+traveling merchant
+
+Abram, Maelor, and Tagar are possible names of which NPC?
+wizard
+
+David, Jack, and Jake are possible names of which NPC?
+pirate
+
+Bruno, Leonardo, and Mauro are possible names of which NPC?
+painter
+
+Bailey, Destiny, and Paris are possible names of which NPC?
+party girl
+
+Ada, Lilly, and Whitney are possible names of which NPC?
+steampunker
+
+Alpha, Mu, and Lambda are possible names of which NPC?
+cyborg
+
+Mika and Tom are possible names of which NPC?
+skeleton merchant
+
+Filmore, Chester, and Ronald are possible names of which NPC?
+tax collector
+
+Adam, Jimmy, and Spencer are possible names of which NPC?
+angler
+
+Abibe, Konah, and U'wa are possible names of which NPC?
+truffle
+
+Enoki, Morel, and Porcini are possible names of which NPC?
+truffle
+
+Bill, Ernest, and Jerry are possible names of which NPC?
+tavernkeep
+
+How many different names can the Santa NPC have?
+1
+
+Which NPC can be named "Zelda"?
+steampunker
+
+>> NPC quotes -------------------------------
+
+How many of the Old Man's quotes do not contain the word 'master' in the PC version?
+7
+
+Which NPC says "I wonder if the moon is made of cheese... huh, what? Oh yes, buy something!"?
+merchant
+
+Which NPC says "Have you seen that Old Man pacing around the dungeon? He looks troubled."?
+nurse
+
+Which NPC says "Hey, watch where you're going! I was over there a little while ago!"?
+mechanic
+
+Which NPC says "I make a rather enchanting hot chocolate if you'd be inter... No? Ok."?
+wizard
+
+Which NPC says "Should I become an air pirate? I've considered becoming an air pirate."?
+steampunker
+
+Which NPC has a quote that includes the word "fortnight"?
+pirate
+
+====================================================
+
+> Achievements ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How many achievements, in total, are there in Terraria on the Steam edition?
+88
+
+Which achievement would you get for chopping down a tree for the first time (or picking up wood)? Answer should be exact.
+timber!!
+
+Which achievement would you get when an NPC moves into your house successfully? Answer should be exact.
+no hobo
+
+Which achievement would you get for obtaining a hammer for the first time? Answer should be exact.
+stop! hammer time!
+
+Which achievement would you get for mining your first ore? Answer should be exact.
+OoO! shiny!
+
+Which achievement would you get for breaking a Crystal Heart for the first time? Answer should be exact.
+heart breaker
+
+Which achievement would you get for consuming your first Mana Crystal? Answer should be exact.
+star power
+
+Which achievement would you get for getting killed by a Trap for the first time? Answer should be exact.
+watch your step!
+
+Which achievement would you get for surviving your first full night? Answer should be exact.
+you can do it!
+
+Which achievement would you get for obtaining your first iron/lead anvil? Answer should be exact.
+heavy metal
+
+Which achievement would you get for opening a Gold Chest for the first time? Answer should be exact.
+i am loot!
+
+Which achievement would you get for equipping a grappling hook for the first time? Answer should be exact.
+hold on tight!
+
+Which achievement would you get for defeating the Eye of Cthulhu? Answer should be exact.
+eye on you
+
+Which achievement would you get for smashing a shadow orb for the first time? Answer should be exact.
+smashing, poppet!
+
+Which achievement would you get for defeating the Eater of Worlds for the first time? Answer should be exact.
+worm fodder
+
+Which achievement would you get for defeating the Brain of Cthulhu for the first time? Answer should be exact.
+mastermind
+
+Which achievement would you get for discovering a bee hive for the first time? Answer should be exact.
+where's my honey?
+
+Which achievement would you get for defeating the Queen Bee for the first time? Answer should be exact.
+sting operation
+
+Which achievement would you get for defeating Skeletron for the first time? Answer should be exact.
+boned
+
+Which achievement would you get for unlocking your first Gold Chest within the Dungeon? Answer should be exact.
+dungeon heist
+
+Which achievement would you get for reaching the underworld for the first time? Answer should be exact.
+it's getting hot in here
+
+Which achievement would you get for crafting the Molten Pickaxe? Answer should be exact.
+miner for fire
+
+Which achievement would you get for defeating the Wall of Flesh for the first time? Answer should be exact.
+still hungry
+
+Which achievement would you get for entering Hardmode? Answer should be exact.
+it's hard!
+
+Which achievement would you get for smashing a Demon/Crimson Altar using the Pwnhammer for the first time? Answer should be exact.
+begone, evil!
+
+Which achievement would you get for mining your first Hardmode ore? Answer should be exact.
+extra shiny!
+
+Which achievement would you get for equipping a pair of wings for the first time? Answer should be exact.
+head in the clouds
+
+Which achievement would you get for obtaining any boss-summoning item for the first time? Answer should be exact.
+like a boss
+
+Which achievement would you get for defeating all three mechanical bosses for the first time?
+buckets of bolts
+
+Which achievement would you get for crafting the Drax or the Pickaxe Axe? Answer should be exact.
+drax attax
+
+What achievement would you get for mining your first Chlorophyte Ore? Answer should be exact.
+photosynthesis
+
+Which achievement would you get for consuming a Life Fruit for the first time? Answer should be exact.
+get a life
+
+Which achievement would you get for defeating Plantera for the first time? Answer should be exact.
+the great southern plantkill
+
+Which achievement would you get for mining Lihzahrd bricks from the Jungle Temple? Answer should be exact.
+temple raider
+
+Which achievement would you get for defeating the Golem for the first time? Answer should be exact.
+lihzahrdian idol
+
+Which achievement would you get for obtaining a rare item from an enemy in the post-Plantera Dungeon? Answer should be exact.
+robbing the grave
+
+Which achievement would you get for opening your first biome chest? Answer should be exact.
+big booty
+
+Which achievement would you get for defeating Duke Fishron for the first time? Answer should be exact.
+fish out of water
+
+Which achievement would you get for defeating the Lunatic Cultist for the first time? Answer should be exact.
+obsessive devotion
+
+Which achievement would you get for defeating all four Celestial Pillars? Answer should be exact.
+star destroyer
+
+Which achievement would you get for defeating the Moon Lord for the first time? Answer should be exact.
+champion of terraria
+
+Which achievement would you get for surviving your first Blood Moon? Answer should be exact.
+bloodbath
+
+Which achievement would you get for defeating the King Slime for the first time? Answer should be exact.
+slippery shinobi
+
+Which achievement would you get for defeating the Goblin Army for the first time? Answer should be exact.
+goblin punter
+
+Which achievement would you get for defeating the Pirate Invasion for the first time? Answer should be exact.
+walk the plank
+
+Which achievement would you get for surviving your first Solar Eclipse? Answer should be exact.
+kill the sun
+
+Which achievement would you get for defeating the Frost Legion for the first time? Answer should be exact.
+do you want to slay a snowman?
+
+Which achievement would you get for defeating the Martian Invasion for the first time? Answer should be exact.
+tin-foil hatter
+
+Which achievement would you get for reaching the 15th wave of a Pumpkin Moon?  Answer should be exact.
+baleful harvest
+
+Which achievement would you get for reaching the 15th wave of a Frost Moon? Answer should be exact.
+ice scream
+
+Which achievement would you get for surviving the event Slime Rain? Answer should be exact.
+sticky situation
+
+Which achievement would you get for housing all possible town NPCs in your world? Answer should be exact.
+real estate agent
+
+Which achievement would you get for firing the Bee Gun while in a full set of Bee Armor? Answer should be exact.
+not the bees!
+
+Which achievement would you get for entering your first Spider Nest? Answer should be exact.
+jeepers creepers
+
+Which achievement would you get for encountering an above-ground Mushroom biome? Answer should be exact.
+funkytown
+
+Which achievement would you get for reaching Space? Answer should be exact.
+into orbit
+
+Which achievement would you get for reaching the very bottom of the Underworld? Answer should be exact.
+rock bottom
+
+Which achievement would you get for defeating all three mechanical bosses simultaneously in a single battle? Answer should be exact.
+mecha mayhem
+
+Which achievement would you get for defeating at least one of every type of slime? Answer should be exact.
+gelatin world tour
+
+Which achievement would you get for equipping armor or vanity clothing in all three social slots? Answer should be exact.
+fashion statement
+
+Which achievement would you get for killing an enemy by running over it with a minecart? Answer should be exact.
+vehicular manslaughter
+
+Which achievement do you obtain upon destroying ten thousand blocks? Answer should be exact.
+bulldozer
+
+Which achievement would you get for defeating Tim for the first time? Answer should be exact.
+there are some who call him...
+
+Which achievement would you get for defeating a Nymph for the first time? Answer should be exact.
+deceiver of fools
+
+Which achievement would you get for obtaining a Terra Blade? Answer should be exact.
+sword of the hero
+
+Which achievement would you get for surviving a fall with not much health left? Answer should be exact.
+lucky break
+
+Which achievement would you get for throwing a yoyo for the first time? Answer should be exact.
+throwing lines
+
+Which achievement would you get for equipping dyes in all dye slots? Answer should be exact.
+dye hard
+
+Which achievement would you get for obtaining the Terrarian? Answer should be exact.
+sick throw
+
+Which achievement would you get by spending over 1 Gold total being treated by the nurse? Answer should be exact.
+the frequent flyer
+
+Which achievement would you get by equipping your first mount? Answer should be exact.
+the cavalry
+
+Which achievement would you get by obtaining a Minishark? Answer should be exact.
+completely awesome
+
+Which achievement would you get for defeating The Groom for the first time? Answer should be exact.
+til death...
+
+Which achievement would you get for defeating Doctor Bones for the first time? Answer should be exact.
+archaeologist
+
+Which achievement would you get for defeating Pinky for the first time? Answer should be exact.
+pretty in pink
+
+What achievement would you get by firing a Rainbow Gun while riding a Unicorn mount? Answer should be exact.
+rainbows and unicorns
+
+Which achievement would you get by having 9 minions summoned at the same time? Answer should be exact.
+you and what army?
+
+Which achievement would you get for obtaining a Rainbow Rod? Answer should be exact.
+prismancer
+
+Which achievement would you get for having a Truffle move into a house created in the Mushroom Biome? Answer should be exact.
+it can talk?!
+
+Which achievement would you get for traveling a total of 26.2 miles on foot? Answer should be exact.
+marathon medalist
+
+Which achievement would you get by obtaining the Golden Fishing Rod from the Angler? Answer should be exact.
+Glorious Golden Pole
+
+Which achievement would you get by completing 1 Angler quest? Answer should be exact.
+servant-in-training
+
+Which achievement would you get by completing 10 Angler quests? Answer should be exact.
+good little slave
+
+Which achievement would you get by completing 25 Angler quests? Answer should be exact.
+trout monkey
+
+Which achievement would you get for completing 50 Angler quests? Answer should be exact.
+fast and fishious
+
+Which achievement would you get for completing 200 Angler quests? Answer should be exact.
+supreme helper minion!
+
+Which achievement would you get for reaching maximum health and mana? Answer should be exact.
+topped off
+
+Which achievement would you get for defeating every boss in game? Answer should be exact.
+slayer of worlds
+
+Which achievement would you get for equipping armor in all armor slots? Answer should be exact.
+matching attire
+
+Which Steam achievement has the lowest global completion rate? Answer should be exact.
+supreme helper minion!
+
+====================================================
+
+> [Lore] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What are the Gods testing?
+fairness
+
+Who established a balance to guarantee fairness for all living creatures?
+gods
+
+A defense mechanism to ensure the balance is upheld at all costs?
+hallow
+
+Who experiences communications from the world?
+player
+
+What does universal fairness apply to?
+life
+
+What must be balanced before the mind of a living organism can die?
+feelings
+
+What must Corruption do to life before it can destroy it?
+balance
+
+What is each world in Terraria?
+a sentient being
+
+What is the Crimson trying to restore at all costs?
+balance
+
+The Hallow cures threats that would attempt to violate what?
+balance of life
+
+What organization is the Guide a part of?
+order of the guide
+
+What used to be a thriving city full of life until a curse forced all its inhabitants to go mad?
+dungeon
+
+Each world in Terraria can feel the thoughts of all living creatures for a sole purpose. What is that sole purpose?
+fairness
+
+Canonically, who built the mechanical bosses?
+mechanic
+
+Who stopped Cthulhu from destroying the world?
+dryads
+
+What is communicating with the player throughout the game?
+world
+
+Many accross Terraria have fallen under the possession of what?
+cult
+
+Which biome is said to be a single being that shares a connected hive mind?
+crimson
+
+====================================================
+
+> [Terraria versions] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Which platform was Terraria first released on after PC?
+ps3
+
+What boss was an exclusive on mobile, 3DS and console versions of Terraria?
+ocram
+
+Which celestial weapon had its name changed?
+vortex beater
+
+What was the first item introduced that grants the Well Fed buff?
+bowl of soup
+
+In what year was the 3DS version of the game released?
+2015
+
+What was the original name for the Dangersense Potion?
+trapsight
+
+Name one of the 2 pairs of wings first added to the game.
+demon
+
+Prior to the introduction of planter boxes, what item was commonly used for farming herbs?
+clay pot
+
+What was the Drax originally called?
+hamdrax
+
+Name one of the original 3 Hardmode ores.
+cobalt
+
+What was the first craftable statue added to Terraria?
+armor
+
+Prior to PC version 1.0.5, which accessory used to consume mana while in use?
+rocket boots
+
+Prior to PC version 1.1, how many spell tomes were in the game?
+2
+
+Prior to PC version 1.2, which Hardmode enemy had the ability to destroy blocks?
+clown
+
+Prior to PC version 1.2, what was the Shadow Orb light pet called?
+orb of light
+
+Prior to PC version 1.3.1, what in-game glitch-turned-feature was used to simulate the effect of logic gates?
+hoik
+
+Which PC version of the game introduced wiring?
+1.1
+
+Which PC version of the game introduced wings?
+1.1
+
+Which PC version of the game introduced Hardmode?
+1.1
+
+Which PC version of the game introduced the Crimson biome?
+1.2
+
+Which PC version of the game introduced the Bee Hive mini-biome?
+1.2
+
+Which PC version of the game introduced the Party Girl NPC?
+1.2
+
+Which version of the game introduced the summoner class?
+1.2
+
+Which PC version of the game renamed the Hamdrax to Drax and removed its hammer functionality?
+1.2
+
+Which PC version of the game introduced the Pumpkin Moon event?
+1.2.1
+
+Which PC version of the game introduced the Chaos State debuff?
+1.2.1.2
+
+Which PC version of the game introduced the Frost Moon event?
+1.2.2
+
+Which version of the game allowed accessories to be visible on the player?
+1.2.3
+
+Prior to which PC version of the game could Goldfish be obtained without the use of the Bug Net?
+1.2.3
+
+Which PC version of the game introduced the Mana Sickness debuff?
+1.2.3
+
+Which PC version of the game released Duke Fishron?
+1.2.4
+
+Which PC version of the game added functionality to enemy banners?
+1.3.0.1
+
+Which PC version of the game officially added Mac and Linux support?
+1.3.0.8
+
+In what year was PC version 1.3.0.1 released?
+2015
+
+Which speedrunner-favored consumable weapon was nerfed with the release of PC version 1.3.0.1?
+molotov cocktail
+
+Prior to PC version 1.3.0.5, which sword could be fished in the Jungle in Hardmode?
+seedler
+
+Name a movement-related debuff that was added after version 1.3.0.1.
+mighty wind
+
+Which accessory was crafted using Souls of Fright prior to version 1.3.0.1?
+neptune's shell
+
+Prior to version 1.3, which hammer had the highest range?
+spectre hamaxe
+
+Prior to version 1.3.0.5, which sword could be obtained by fishing in the Jungle in Hardmode?
+seedler
+
+====================================================
+
+> External media ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+>> References --------------------------------------
+
+The Creeper vanity set is a reference to what popular 2011 sandbox video game?
+minecraft
+
+What game is the S.D.M.G. a reference to?
+edge of space
+
+The Breaker Blade is a reference to what popular JPRG video game franchise?
+final fantasy
+
+What mythology is the Valkyrie yoyo a reference to?
+norse
+
+The Midas debuff is a reference to a king from which mythology?
+greek
+
+Which item sold by the Traveling Merchant is a reference to the popular TV show "Doctor Who"?
+fez
+
+The Karate Tortoise vanity set is a reference to which member of the Teenage Mutant Ninja Turtles?
+leonardo
+
+The Flower of Fire is a reference to what popular video game franchise?
+super mario bros
+
+The Plumber's vanity set sold by the Clothier is a reference to what video game character?
+mario
+
+The Hero's vanity set is a reference to what character from the popular fantasy action-adventure video game franchise 'The Legend of Zelda'?
+link
+
+The Keybrand is a reference to a sword wielded by which character in the popular video game franchise 'Kingdom Hearts'?
+sora
+
+The male version of the Treasure Hunter vanity set is a reference to what character from the action-adventure third-person shooter video game series 'Uncharted'?
+nathan drake
+
+The female version of the Treasure Hunter vanity set is a reference to what character from the action-adventure video game series 'Tomb Raider'?
+lara croft
+
+The Engineering Helmet is a likely reference to what popular 2007 team-based first-person shooter video game?
+team fortress 2
+
+The name 'Plantera' is a reference to what popular former heavy metal band?
+pantera
+
+What person is "The Axe" a tribute to?
+dimebag darrell
+
+What type of guitar is The Axe?
+gibson flying v
+
+Phaseblades and Phasesabers are a reference to what popular movie series?
+star wars
+
+The Martia Lisa painting is a parody of what popular painting by 16ht century  polymath Leonardo de Vinci?
+mona lisa
+
+The Cyborg quote "My expedition efficiency was critically reduced when a projectile impacted my locomotive actuator." is a reference to which 2011 action role-playing video game?
+skyrim
+
+The Parka vanity set is a reference to what American animated sitcom series?
+south park
+
+What game is the Old One's Army inspired by?
+dungeon defenders 2
+
+The Meowmere is a reference to what popular 2011 viral video/meme?
+nyan cat
+
+Which NPC can have a name that directly references a Terraria YouTuber?
+clothier
+
+Which Clothier name was inspired by a YouTuber?
+james
+
+Which achievement is a reference to the popular Disney movie 'Frozen'? Answer should be exact.
+do you want to slay a snowman?
+
+Which TV show does the Merchant's line "Buy something or die." reference?
+star trek
+
+The Bladed Glove is a reference to what popular character/movie?
+freddy krueger
+
+The Butcher is a reference to what character from the 1974 American slasher movie The Texas Chain Saw Massacre?
+leatherface
+
+Dr. Man Fly is a reference to what 1958 science fiction horror movie?
+the fly
+
+Which enemy is a reference to the 1958 science fiction horror movie The Fly?
+dr man fly
+
+The Possessed is a reference to what 1973 supernatural horror movie?
+the exorcist
+
+The Nailhead is a reference to what 1987 horror movie?
+hellraiser
+
+The Mothron is a reference to what 1961 Japanese kaiju movie?
+mothra
+
+The Vampire vanity set is a reference to what 1931 vampire-horror movie?
+dracula
+
+What is "Terraria: Shut up and Dig Gaiden!" a reference to?
+Barkley, Shut up and Jam: Gaiden
+
+What is the "Fortune and glory, kid" line a reference to?
+indiana jones
+
+The Pillagin Me Pixels painting is a reference to what game published by Re-Logic?
+pixel piracy
+
+Which sword is featured in one of the Steam Trading Cards for Terraria?
+night's edge
+
+Which gun is featured in one of the Steam Trading Cards for Terraria?
+minishark
+
+What is "Terraria: There is No Cow Layer" a reference to?
+diablo
+
+Which author is the title message "Terraria: Rumors of the Guides' death were greatly exaggerated" reffering to?
+mark twain
+
+>> [Community] -------------------------------------
+
+In what year was the Re-Logic YouTube channel created?
+2006
+
+In which year was the first trailer for Terraria released?
+2011
+
+When was Terraria's initial release? Answer in the following format: YYYY/MM/DD
+2011/05/16
+
+When was Redigit (the creator of Terraria) born? Answer in the following format: YYYY/MM/DD
+1983/11/12
+
+What role does Yoraiz0r have within Re-Logic?
+lead developer
+
+Which Re-Logic member holds the title of 'Consigliere'?
+loki
+
+Which Terraria sprite artist's in-game vanity set includes a barrier platform? Answer should be the alias used in the item name, not a real name.
+lazure
+
+Who composed Terraria's soundtrack?
+scott lloyd shelly
+
+Which popular Swedish Terraria Youtuber hosted a Terraria themed olympics event in 2012?
+yrimir
+
+Which former Re-Logic employee said "Sand is overpowered"?
+blue
+
+Some yoyos in the game have an icon in their tooltip, what yoyo producer does that icon represent?
+one drop
+
+What is the strongest One Drop yoyo that existed in real life before the company's partnership with Re-Logic?
+yelets
+
+What's the unofficial name for a tunnel that leads to the deepest level of Terraria?
+hellevator
+
+What does the commonly used abbreviation 'EoC' stand for?
+eye of cthulhu
+
+Which boss was first revealed as an April Fool's joke on the official Terraria forums?
+duke fishron
+
+====================================================
+
+> [Misc.] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Which player stat is 50% more effective in Expert mode?
+defense
+
+Which player stat is 50% less effective in Expert mode?
+life regeneration
+
+What is the default port of Terraria servers?
+7777
+
+What is the internal item id of the Dirt Block?
+2
+
+How many blocks wide is a player character?
+2
+
+How many different types of dashes are in the game?
+3
+
+Including the floor, walls, and ceiling, how many tiles must a house contain in order to be considered valid NPC housing?
+60
+
+What will giving your character certain names cause to happen to the beam(s) of the Last Prism?
+change color
+
+Which item has the most amount of characters (including spaces) in its name? The answer's spelling must be exact.
+baby grinch's mischief whistle
+
+Alphabetically, what is the last item in Terraria?
+zombie fish
+
+What is the velocity of The Horseman's Blade multiplied by its base use time and then multiplied by its base damage?
+22500
+
+What color do messages sent by a hardcore character have in chat?
+purple
+
+---
+
+====================================================
+
+== (Tips and) Trivia about #trivia ==
+* Point placements:
+100 -> 50 -> 25 -> 13 -> 7 -> 4 -> 2 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> ???
+(You get cooldown no matter the placement.)
+
+* You start seeing multiple repeat questions in #trivia once you go back a full week. Going back even farther reveals more.
+
+* On July 13th, 2019, the Trivia guide bot posted the question "3 y-o". The answer was never found, and the question timed out. It was later rumored that the trivia team was editing the bot during that time and this caused the infamous 3 y-o to show up.
+
+* Fallen Stars can used to craft which block? [sic]
+
+* What is the best prefix to increase critical stike chance of accessories? [sic]
+
+* Trivia times out after 4 minutes and 30 seconds with the message "Trivia question was not answered in time!".
+
+* The questions below are the only three questions that require a percentage, that do not specify as such.
+** What is the pickaxe power of the Reaver Shark? (100%)
+** What percentage is the base critical strike chance of the S.D.M.G.? (14%)
+** How likely is the Chain Gun to not consume bullets? (50%)
+* Ironically, both "What percent discount does the Discount Card provide?" (20) and "With no damage negation, what percentage of the player's health is received as damage when hitting a Demon/Crimson Altar with a pre-Hardmode hammer?" (50) don't require a percent.
+
+* The truffle is the only NPC (so far) that has two name questions.
+** Enoki, Morel, and Porcini are possible names of which NPC?
+** Abibe, Konah, and U'wa are possible names of which NPC?
+
+* You can use tr!toggletriviarole in #trivia, and you won't get an X on your answer. It's better to use #bot-commands though, otherwise as you have to wait 5 minutes for a small window to toggle a notification you will have missed.
+
+* Logic gate questions are solved by calculating (on lamps/total lamps). If you're good at fast division you should excel at them.
+
+* "How many dye ingredients in total are needed to craft one Rainbow Dye?" (9) can be remembered as the combinations of the three flame dyes.
+
+=== Bad Answers ===
+* For "What in-game time does a world start at after being loaded for the first time?", you must specify 8:15 am. This was an older question updated in the October Update.
+
+* For "Which pre-Hardmode mount performs the best in water?", "hardy saddle" does not work.
+
+* For "What is the Crimson variant of wood?", "shade" does not work.
+
+* For "Which armor set grants you the ability to dash?" (solar flare), "solar" does not work.
+
+* For "What is the only craftable mount?", you cannot use the acronym "DCU".
+
+* For "The Flower of Fire is a reference to what popular video game franchise?", you cannot type "mario", the shortest it gets is "super mario bros".
+
+=== Alternate Answers ===
+* "Mythril Ore and Orichalcum Ore spawn below what depth on a large world? Answer in either feet or tiles." accepts 1000 or 2000.
+
+* "Name a quest fish that is named after an real fish, and visually resembles the fish it is named after." accepts 'clownfish' or 'angelfish'.
+
+* For the question "Name one of the 3 pickaxes with the weakest pickaxe power that can mine Luminite ore.", copper may be more iconic, but "tin" is faster.
+
+* When you see "Name one of the 2 debuffs EVERY slime variant is immune to." you may want to type poisoned, but all enemies immune to poisoned are also immune to venom. Type "venom" instead, it's shorter.
+
+* For the question regarding naming a pair of wings from 1.1, you may want to consider typing "demon" instead of "angel". You can mistype "angel" as "angle" easily, and the characters in "demon" are closer together on a qwerty keyboard.
+
+* For "What is the average start depth of the caverns on a large world? Answer in either feet or tiles.", you can answer 480 or 960. 960 is smooth movement from left to right, but 480 is two-handed. Choose which works best for you.
+
+* For "Name one of the 2 fish used to craft the Inferno Potion.", you can answer "flarefin koi" (12) or "obsidifish" (10). While obisdifish is shorter, it requires a reach for the "b" key on a qwerty keyboard. Choose what works best for you.
+
+* For "Name an item that can prevent fall damage from the Stoned debuff.", you can answer djinn's curse or featherfall potion. Obviously djinn's curse is shorter, but if you have trouble typing that, featherfall potion is something to fall back on.
+
+* For "What is the drop rate of the Brain Scrambler?", you can type 1/100 if reaching for shift-5 is difficult.
+
+* "Which debuff do flares inflict?" and "Which debuff does lava inflict?" do not require you to type the "!" from "On Fire!".
+
+* "Which buff do sunflowers give when within a 50-tile radius of the player?" does not require you to type the "!" from "Happy!"
+
+* For "Excluding obsidian, name a type of ore that the Spelunker Potion does not work on.", you can type either hellstone, obsidian, demonite, crimtane, or luminite. Choose what works best for you.
+
+* For "Name a debuff that prevents player movement.", stoned, webbed, and frozen all have 6 letters.
+
+* For "Name one of the 2 magic weapons the Moon Lord can drop upon being defeated.", lunar flare does not require you to reach for the p (last prism), potentially saving time.
+
+* "Golden creatures sell for how much gold?" does not require you to specify "10g". "10" is enough. In fact, this appears to be the only question that does this.
+
+* The popular answer to "Name an Underground Crimson enemy that can move through blocks." is "floaty gross", but "crimson axe" saves 1 character, and prevents players from needing to reach both a t and y in the middle of the keyboard.
+
+LEGAL DISCLAIMER: Contributors to this guide are not responsible for how this guide is used.
