@@ -2928,6 +2928,9 @@ goodie bag
 Which enemy can drop a Shackle?
 zombie
 
+What is the highest-value item that can be obtained from an enemy spawned by a statue?
+giant harpy feather
+
 How many different emblems can drop from the Wall of Flesh?
 4
 
