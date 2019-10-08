@@ -1,4 +1,4 @@
-TRIVIA STUDY GUIDE
+TRIVIA STUDY GUIDE (v1.1)
 
 == Intro ==
 Hey how's it going. This guide here is a futile attempt to get every #trivia question down on paper in an easy to digest format. Use your computer's find (ctrl/cmd + f) function to find questions quickly.
@@ -7,19 +7,20 @@ There is sometimes more than one answer to some questions in the trivia, but the
 
 Questions are generally sorted by game progression and relevance.
 
-If any answers are wrong/questions are missing, please alert me so I can update the guide!
+Syntax:
+Major sections are separated by = bars. As sections go down, they are styled as follows:
+> [1] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> [2] -----------------------------------------
+>>> 3 ::::::::::::::::::::::::::::::::::::::::::
+
+It is OK to deviate from a section's content to keep 2 or 3 similar questions together, but make sure not to do this so much that the section becomes muddled with unrelated questions.
 
 This guide applies to both #trivia and #epic-battles as they pull from the same question pool.
 
 https://terraria.gamepedia.com/
 Quick access wiki link. Type after the slash to get to a page fast.
 
-== Pre-Github Patch notes ==
-v1.0 - Release by Qw2#2990
-v1.0.1 - Added 2 questions from ZucriyAmsuna#5436
-v1.0.2 - Moved patch notes & wiki link to top; Tip from XultroniX#5965
-v1.0.3 - Added 3 questions from ZucriyAmsuna#5436. Added message for when the trivia bot times out. Added "Which armor set grants you the ability to dash?" to Bad Answers.
-v1.0.4 - "wooden greaves" -> "wood greaves" (Which piece of armor grants 0 defense in the PC version?), Added 1 question from ZucriyAmsuna#5436
+== Patch notes ==
 v1.1 - OCTOBER UPDATE! This update has reworded old questions and added new ones to stump even the most seasoned trivia members. Thank you to everyone who posted questions in #trivia-chat! 
 * Fixed typo in one question.
 * Added 50 questions from Insaneous#2747.
@@ -27,6 +28,13 @@ v1.1 - OCTOBER UPDATE! This update has reworded old questions and added new ones
 * Added 1 question from StephanTimmy#6269
 * Added 2 questions from DuneX22#5256
 * Added 1 question from Wither_boy1664#8984
+* Added two unknown questions. These questions were asked, but were not solved in time.
+* Implemented multiple rewords of old questions.
+v1.0.4 - "wooden greaves" -> "wood greaves" (Which piece of armor grants 0 defense in the PC version?), Added 1 question from ZucriyAmsuna#5436
+v1.0.3 - Added 3 questions from ZucriyAmsuna#5436. Added message for when the trivia bot times out. Added "Which armor set grants you the ability to dash?" to Bad Answers.
+v1.0.2 - Moved patch notes & wiki link to top; Tip from XultroniX#5965
+v1.0.1 - Added 2 questions from ZucriyAmsuna#5436
+v1.0 - Release by Qw2#2990
 
 == Questions ==
 
@@ -42,6 +50,9 @@ How many vanity items worn in the head slot are not part of a set?
 >> [Crafting (materials)] --------------------------
 Which gem is needed in order to craft the Slime Crown?
 ruby
+
+What gem do you need to craft Orange Torches?
+amber
 
 Name one of the ingredients in Grub Soup.
 buggy
@@ -214,6 +225,9 @@ extractinator
 >> [Weapons/Tools] -----------------------------------
 What is the maximum attainable minion capacity?
 11
+
+Which weapon's sprite has the shortest width?
+magic dagger
 
 What is the base damage of a Palladium Pike?
 32
@@ -511,6 +525,9 @@ terrarian
 
 How many developers have their own unique yoyo (included with their vanity set) in the game?
 2
+
+What bow can be crafted with Vortex Fragments?
+phantasm
 
 Which magic weapon deals the most base damage?
 nebula blaze
@@ -877,7 +894,7 @@ solar tablet
 What must be used at the Lihzahrd Altar in order to summon Golem?
 lihzahrd power cell
 
-Which item is used to summon the Pumpkin Moon? {{PLACEHOLDER}}
+Which item is used to summon the Pumpkin Moon?
 pumpkin moon medallion
 
 What item is used to summon the Frost Moon?
@@ -1136,8 +1153,6 @@ blindfold
 Which accessory grants immunity to Broken Armor as its only effect?
 armor polish
 
-{{PLACEHOLDER: only effect}}
-
 Which accessory can the Nazar be combined with?
 megaphone
 
@@ -1167,6 +1182,9 @@ frost
 
 Not counting hybrid sets, which armor set provides the largest combined bonuses to melee damage and critical strike chance?
 beetle
+
+What armor piece provides lower defense than the armor piece it was "upgraded" from?
+beetle scale mail
 
 Which accessory has the highest attack speed bonus without modifiers?
 celestial shell
@@ -1341,28 +1359,6 @@ it has been cursed by a powerful jungle creature
 
 What is the only item other than the Pwnhammer with the tooltip "Strong enough to destroy Demon Altars"?
 hammush
-
->> [Logic gates] -----------------------------------
-What's the probability that a faulty logic gate with 5 on lamps and 15 off lamps will activate? Answer as a percentage.
-25%
-
-What's the probability that a faulty logic gate with 7 on lamps and 3 off lamps will activate? Answer as a percentage.
-70%
-
-What's the probability that a faulty logic gate with 4 on lamps and 36 off lamps will activate? Answer as a percentage.
-10%
-
-What's the probability that a faulty logic gate with 42 on lamps and 0 off lamps will activate? Answer as a percentage.
-100%
-
-What's the probability that a faulty logic gate with 1 on lamp and 1 off lamp will activate? Answer as a percentage.
-50%
-
-What's the probability that a faulty logic gate with 130 on lamps and 270 off lamps will activate? Answer as a percentage.
-32.5%
-
-What's the probability that a faulty logic gate with 0 on lamps and 64 off lamps will activate? Answer as a percentage.
-0%
 
 >> [Pressure plates] -----------------------------
 Name a type of non-weighted pressure plate that can only be triggered by players.
@@ -1675,6 +1671,9 @@ How many different recipes are the Illegal Gun Parts used in?
 How much topaz do you need to craft the Sandgun?
 5
 
+How many Meteor Shots can be crafted from one Meteorite Bar?
+70
+
 The Fiery Greatsword requires how many Hellstone bars to craft?
 20
 
@@ -1847,26 +1846,29 @@ light
 What is the best prefix for most of the melee weapons?
 legendary
 
-What is the best prefix for most of the ranged weapons? {{PLACEHOLDER}}
+What is the best prefix for most of the ranged weapons?
 unreal
 
-What is the best prefix for most of the magic weapons? {{PLACEHOLDER}}
+What is the best prefix for most of the magic weapons?
 mythical
 
-What is the best prefix to increase your defense on accessories? {{PLACEHOLDER}}
+What is the best prefix to increase your defense on accessories?
 warding
 
-What is the best prefix to increase your damage on accessories? {{PLACEHOLDER}}
+What is the best prefix to increase your damage on accessories?
 menacing
 
 Which accessory prefix provides the highest increase to melee speed?
 violent
 
-What is the best prefix to increase critical stike chance of accessories? {{PLACEHOLDER}}
+What is the best prefix to increase critical stike chance of accessories?
 lucky
 
 How much mana do you gain from having the Arcane prefix on accessories?
 20
+
+What is the best modifier for a yoyo?
+godly
 
 >> [Misc.] -----------------------------------------
 What is the maximum number of items that can be put in 1 stack?
@@ -1989,6 +1991,9 @@ cursed
 Which debuff has the largest number of associated death messages?
 stoned
 
+How many unique death messages are there for dying in lava?
+4
+
 Which Flask allows you to inflict a debuff that cannot affect player characters?
 gold
 
@@ -2043,6 +2048,9 @@ How many different bouncy blocks are there?
 
 How many different types of brick can Jungle Shrines be made of?
 5
+
+How many types of ore can never be broken by an explosion?
+7
 
 What type of purchaseable block causes players to bounce upon being landed on?
 silly balloons
@@ -2479,19 +2487,19 @@ dungeon
 How many different dungeon-exclusive items can be found in a golden lock box?
 7
 
-What is inside the Frozen Biome chest? {{PLACEHOLDER}}
+What is inside the Frozen Biome chest?
 staff of the frost hydra
 
-What is inside the Hallowed Biome chest? {{PLACEHOLDER}}
+What is inside the Hallowed Biome chest?
 rainbow gun
 
 What weapon is inside the locked Corruption Chest?
 scourge of the corruptor
 
-What is inside the Jungle Biome chest? {{PLACEHOLDER}}
+What is inside the Jungle Biome chest?
 piranha gun
 
-What is inside the Crimson Biome chest? {{PLACEHOLDER}}
+What is inside the Crimson Biome chest?
 vampire knives
 
 In what type of chest are the Vampire Knives found?
@@ -2548,9 +2556,6 @@ bone biter
 
 What enemy replaces the Sand Shark in a Crimson Desert?
 flesh reaver
-
-What enemy replaces the Sand Shark in a Hallow Desert? {{PLACEHOLDER}}
-crystal thresher
 
 What is the Crimson variant of the Demon Eye called?
 cataract eye
@@ -2911,7 +2916,7 @@ wall of flesh
 Which armor set can be dropped by Hornets?
 ancient cobalt
 
-The Eater of Souls enemy has a small chance of dropping pieces from which armor set? {{PLACEHOLDER}}
+The Eater of Souls enemy has a small chance of dropping pieces from which armor set?
 ancient shadow
 
 What is the chance for the Eater of Souls to drop any individual piece of Ancient Shadow armor? Answer as a fraction in simplest form.
@@ -2928,9 +2933,6 @@ How many different emblems can drop from the Wall of Flesh?
 
 How many different weapons are dropped by the Goblin Summoner?
 3
-
-What melee weapon is dropped by the Goblin Summoner? {{PLACEHOLDER}}
-shadowflame knife
 
 What ranged weapon is dropped by the Goblin Summoner?
 shadowflame bow
@@ -3015,6 +3017,9 @@ Including the treasure bag AND its contents, how many unique potential drops doe
 
 How many different weapons can the Moon Lord drop?
 9
+
+How many different enemies can drop the Compass?
+8
 
 What pet is dropped by Pumpking?
 spider egg
@@ -3805,6 +3810,9 @@ steampunker
 Which NPC has a quote that includes the word "fortnight"?
 pirate
 
+According to the Dye Trader, what is the only type of wood that is worth dyeing?
+rich mahogany
+
 ====================================================
 
 > Achievements ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4309,6 +4317,9 @@ lara croft
 The Engineering Helmet is a likely reference to what popular 2007 team-based first-person shooter video game?
 team fortress 2
 
+The Space Creature vanity set is a reference to what 1979 science fiction horror movie?
+alien
+
 The name 'Plantera' is a reference to what popular former heavy metal band?
 pantera
 
@@ -4560,5 +4571,27 @@ purple
 * "Golden creatures sell for how much gold?" does not require you to specify "10g". "10" is enough. In fact, this appears to be the only question that does this.
 
 * The popular answer to "Name an Underground Crimson enemy that can move through blocks." is "floaty gross", but "crimson axe" saves 1 character, and prevents players from needing to reach both a t and y in the middle of the keyboard.
+
+=== Deprecated Questions ===
+What's the probability that a faulty logic gate with 5 on lamps and 15 off lamps will activate? Answer as a percentage.
+25%
+
+What's the probability that a faulty logic gate with 7 on lamps and 3 off lamps will activate? Answer as a percentage.
+70%
+
+What's the probability that a faulty logic gate with 4 on lamps and 36 off lamps will activate? Answer as a percentage.
+10%
+
+What's the probability that a faulty logic gate with 42 on lamps and 0 off lamps will activate? Answer as a percentage.
+100%
+
+What's the probability that a faulty logic gate with 1 on lamp and 1 off lamp will activate? Answer as a percentage.
+50%
+
+What's the probability that a faulty logic gate with 130 on lamps and 270 off lamps will activate? Answer as a percentage.
+32.5%
+
+What's the probability that a faulty logic gate with 0 on lamps and 64 off lamps will activate? Answer as a percentage.
+0%
 
 LEGAL DISCLAIMER: Contributors to this guide are not responsible for how this guide is used.
