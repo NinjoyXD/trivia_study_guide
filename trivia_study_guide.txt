@@ -1,4 +1,4 @@
-TRIVIA STUDY GUIDE (v1.1.1)
+TRIVIA STUDY GUIDE (v1.1.2)
 
 == Intro ==
 Hey how's it going. This guide here is a futile attempt to get every #trivia question down on paper in an easy to digest format. Use your computer's find (ctrl/cmd + f) function to find questions quickly.
@@ -19,6 +19,7 @@ https://terraria.gamepedia.com/
 Quick access wiki link. Type after the slash to get to a page fast.
 
 == Patch notes ==
+v1.1.2 - Added more questions from the October Update.
 v1.1.1 - Added more questions from the October Update. Added a table of contents. Re-organized some of the enemy drop questions. Added tip from spooktronix#5965.
 v1.1 - OCTOBER UPDATE! This update has reworded old questions and added new ones to stump even the most seasoned trivia members. Thank you to everyone who posted questions in #trivia-chat! 
 * Fixed typo in one question.
@@ -36,8 +37,7 @@ v1.0.2 - Moved patch notes & wiki link to top; Tip from XultroniX#5965
 v1.0.1 - Added 2 questions from ZucriyAmsuna#5436
 v1.0 - Release by Qw2#2990
 
-== Table of Contents ==
-
+== Table of Contents [TOC] ==
 Questions
 - Unknown
 - Items
@@ -84,6 +84,7 @@ Questions
 --- Mushroom
 --- Underworld
 --- Ocean
+--- Hallow
 - Enemy & Boss
 -- Enemy/Boss general
 -- Enemy/Boss behavior
@@ -121,12 +122,18 @@ How many vanity items worn in the head slot are not part of a set?
 
 > [Items] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+How many different items share the name "Strange Plant"?
+4
+
 >> [Crafting (materials)] --------------------------
 Which gem is needed in order to craft the Slime Crown?
 ruby
 
 What gem do you need to craft Orange Torches?
 amber
+
+Which potion requires Cobwebs to craft?
+dangersense
 
 Name one of the ingredients in Grub Soup.
 buggy
@@ -194,6 +201,12 @@ obsidifish
 How many different types of fish require the player to NOT be in certain specific biomes to be caught?
 4
 
+What material is combined with Wooden Arrows to create Jester's Arrows?
+fallen star
+
+How many weapons require a Soul of Night as a component?
+6
+
 How many different fishing catches can be turned into Sashimi?
 4
 
@@ -224,6 +237,9 @@ book
 What is the only Cage that contains a sprite that does not match the critter it is crafted with?
 penguin
 
+What is the only critter that is not used in any crafting recipes?
+truffle worm
+
 What is the only type of bar in the game that requires something in addition to its corresponding ore to be crafted?
 hellstone
 
@@ -244,6 +260,9 @@ might
 
 Which item do you need to craft most wings?
 soul of flight
+
+How many weapons require a Soul of Fright as a component?
+1
 
 Which type of bar requires the most ore to craft?
 chlorophyte
@@ -271,6 +290,15 @@ How many different items cannot be crafted without Pink Gel?
 
 What type of crafting station can act as a replacement for liquid water?
 sink
+
+Which crafting station provides a chance to not consume crafting materials?
+alchemy table
+
+What crafting station is required to craft a Target Dummy?
+sawmill
+
+Which crafting station can be obtained only in worlds that were generated with the Crimson?
+flesh cloning vat
 
 Which crafting station can Lunar Fragments be used at?
 ancient manipulator
@@ -306,8 +334,23 @@ extractinator
 What is the maximum attainable minion capacity?
 11
 
+Which minion-summoning weapon has the highest base damage?
+stardust cell staff
+
 Which weapon's sprite has the shortest width?
 magic dagger
+
+What is the only â€œPistolâ€ that shoots bullets?
+flintlock pistol
+
+How many enemies can be damaged by a single Throwing Knife?
+2
+
+How many weapons have a critical strike chance higher than 4%?
+25
+
+How many bows can fire a different projectile in place of Wooden Arrows?
+9
 
 What is the base damage of a Palladium Pike?
 32
@@ -339,6 +382,9 @@ How many weapons have a 100% chance of inflicting the Poisoned debuff?
 What is the weakest yoyo that features the One Drop logo?
 rally
 
+What weapon shares its color scheme with the Enchanted Boomerang?
+enchanted sword
+
 Which yoyo has a 0.25% drop rate in pre-Hardmode?
 cascade
 
@@ -366,7 +412,13 @@ wand of sparking
 Which accessory shares its sound effect with the Aqua Scepter?
 rocket boots
 
+What is the only item crafted with Illegal Gun Parts that doesn't require an anvil to craft?
+sandgun
+
 Which weapon can you find in the Dungeon by breaking certain books?
+water bolt
+
+Which weapon can be found in the Dungeon without opening chests or killing enemies?
 water bolt
 
 Which weapon creates a literal rain of blood?
@@ -420,6 +472,9 @@ dark lance
 Which bow can be found in a Shadow Chest?
 hellwing
 
+What is the least accurate bow in the game?
+hellwing
+
 Which bow turns Wooden Arrows into bats upon being fired?
 hellwing
 
@@ -428,6 +483,9 @@ etherian lightning bug
 
 Which pre-Hardmode magic weapon has the highest base damage?
 flower of fire
+
+Which gun fires bullets in three-shot volleys?
+clockwork assault rifle
 
 What is the largest sword in Terraria?
 breaker blade
@@ -444,13 +502,16 @@ flying knife
 What is the only cursor-controllable melee weapon that is not a yoyo?
 flying knife
 
+Which magic weapon uses the largest amount of mana in a single click?
+clinger staff
+
 Which Hardmode weapon inflicts the Confused debuff?
 dao of pow
 
 Which spear is crafted using Titanium Bars?
 titanium trident
 
-What is the maximum number of Light Discs that can be stacked in one slot?
+What is the maximum number of Light Discs that can be stacked?
 5
 
 Using Wooden Arrows, which bow fires the highest velocity arrows?
@@ -470,6 +531,9 @@ ice bow
 
 What is the Crimson counterpart of the Cursed Flames weapon?
 golden shower
+
+What weapon can be crafted with both a Light and Dark Shard?
+dao of pow
 
 What is the fastest melee weapon in the game?
 fetid baghnakhs
@@ -506,6 +570,9 @@ nimbus rod
 
 Which weapon is the upgraded version of the Bee Gun?
 wasp gun
+
+Which weapon can drop from any enemy during a Blood Moon in Hardmode?
+ko cannon
 
 Which semi-automatic gun has the fastest fire rate?
 venus magnum
@@ -552,6 +619,9 @@ terra blade
 Which spear produces a projectile that is not affected by Flasks?
 chlorophyte partisan
 
+Which weapon produces projectiles that leave a mess unless the "Blood and Gore" setting is toggled off?
+tempest staff
+
 What is the base damage of the Terra Blade?
 95
 
@@ -563,6 +633,9 @@ chain guillotines
 
 Of the ranged weapons that cannot obtain the Unreal modifier, which has the highest base damage?
 nail gun
+
+Which rocket weapon does not produce explosion noises?
+electrosphere launcher
 
 Which magic weapon fires boulders?
 staff of earth
@@ -594,7 +667,7 @@ starfury
 Which melee weapon has the highest base damage?
 meowmere
 
-Excluding the Coin Gun, which ranged weapon deals the most base damage?
+Which ranged weapon has the highest base damage?
 sniper rifle
 
 What is the fastest firing gun in the game?
@@ -669,7 +742,7 @@ After how many seconds does a thrown stick of Dynamite explode?
 What is the Crimson counterpart to the War Axe of the Night?
 blood lust cluster
 
-Which fish, caught in the Ocean, can be used as a pickaxe?
+Which fish can be used as a mining tool?
 reaver shark
 
 Which tool has the same pickaxe power as the Reaver Shark?
@@ -678,10 +751,16 @@ molten pickaxe
 What is the pickaxe power of the Drill Containment Unit?
 210%
 
+Which hamaxe has the lowest combined hammer and axe power?
+meteor
+
 What is the pickaxe/drill with the most range?
 laser drill
 
 Which tool boasts the highest pickaxe power of any pickaxe or drill?
+laser drill
+
+What is the only drill that is not obtained through crafting?
 laser drill
 
 Name a magic weapon whose projectiles always last for a set duration.
@@ -759,6 +838,9 @@ anti-gravity
 Which hook has the most number of hooks, but the shortest reach?
 web slinger
 
+Which hook has the shortest reach?
+web slinger
+
 What is the only grappling hook that can be obtained by looting chests?
 web slinger
 
@@ -788,6 +870,9 @@ What is the cheapest buyable ammunition item?
 wooden arrow
 
 Name a type of bullet with "extremely weak" knockback.
+meteor shot
+
+Which type of bullet can bounce off walls?
 meteor shot
 
 Which type of arrow summons falling stars?
@@ -872,8 +957,23 @@ chlorophyte
 What is the minimum number of water tiles required for a body of water to not incur a fishing power penalty?
 300
 
+How many tools can be directly caught through fishing?
+3
+
+How much do golden critters sell for?
+10g
+
+Which non-quest fish can only be caught in a Floating Lake?
+damselfish
+
 Name a quest fish that is named after an real fish, and visually resembles the fish it is named after.
 clownfish
+
+Which quest fish is obtained by fishing in honey?
+bumblebee tuna
+
+Which bait item with a bait power of 10% has the highest sell price?
+snail
 
 How many different types of crates can be obtained through fishing?
 9
@@ -949,6 +1049,9 @@ How many normal pets produce light?
 How many different colors of pixies can be summoned by the Fairy Bell?
 3
 
+What is the only source of Unlucky Yarn?
+goodie bag
+
 >> [Consumables/Potions] ---------------------------
 Excluding the Life Fruit, which healing item restores the least health?
 mushroom
@@ -962,7 +1065,7 @@ How much health does a Lesser Healing Potion restore?
 Which item is used to permanently increase your maximum mana by 20?
 mana crystal
 
-Which item grants the longest duration of the Well Fed buff upon consumption?
+Which item grants Well Fed for the longest duration?
 pumpkin pie
 
 What is the only fish that restores health?
@@ -1049,7 +1152,7 @@ red
 How much more health does the Restoration Potion restore as opposed to the Lesser Restoration Potion?
 0
 
-Which potion buffs the player to deal damage to enemies that come in contact with the player?
+Which buff allows the player to damage enemies on contact?
 thorns
 
 Which potion increases maximum minion count by 1?
@@ -1091,7 +1194,7 @@ stink potion
 Which potion restores the most amount of mana upon consumption?
 strange brew
 
-What is the maximum amount of health you can have without using a Lifeforce Potion?
+What is the maximum attainable health without buffs?
 500
 
 What is the max obtainable health (including buffs)?
@@ -1155,6 +1258,9 @@ lucky horseshoe
 Which accessory can be combined with a lucky horseshoe to make a green horseshoe balloon?
 fart in a balloon
 
+Which component of Tiger Climbing Gear is found in surface chests?
+climbing claws
+
 Magic Cuffs are crafted using the Mana Regeneration Band and what other accessory?
 shackle
 
@@ -1163,6 +1269,9 @@ bezoar
 
 Which single balloon lets you jump the highest?
 sandstorm in a balloon
+
+Which accessory can be combined with the Band of Starpower?
+band of regeneration
 
 Which item allows you to auto-jump?
 frog leg
@@ -1176,20 +1285,32 @@ night vision
 Which mount boosts falling speed?
 slime
 
+Which mount has the same walking speed as the Bee mount?
+turtle mount
+
 What is the effective base damage of lava after an Obsidian Rose is equipped?
 50
 
 How many mounts provide unlimited flight?
 3
 
+How many wings are tied for the lowest flight height?
+3
+
 How many ancient helmets do not have a corresponding ancient armor set?
 3
+
+How many accessories have names ending in "Emblem"?
+7
 
 Which Expert-exclusive accessory prevents damage from slimes?
 royal gel
 
 By what percentage does Mining armor's set bonus increase mining speed?
 30%
+
+How many different Horseshoe Balloons are there?
+6
 
 Which Expert-exclusive accessory allows the player to deal damage by dashing?
 shield of cthulhu
@@ -1215,11 +1336,23 @@ false
 What is the only item that grants the player immunity from being set On Fire?
 obsidian skin potion
 
+Which accessory includes a potion in its crafting recipe?
+mana flower
+
+Which armor set summons projectiles from offscreen?
+orichalcum
+
 What is the only Orichalcum armor piece that increases damage?
 mask
 
 How many different items can be placed in the Light Pet equipment slot?
 7
+
+Which pre-Hardmode armor set has the highest total defense?
+molten
+
+By what percentage does the Avenger Emblem increase damage?
+12
 
 Which single piece of armor boosts critical strike chance the most?
 orichalcum headgear
@@ -1236,6 +1369,9 @@ apprentice's trousers
 What is the only item obtainable before defeating the Moon Lord that increases minion capacity by 2?
 forbidden treads
 
+Name one of the three equippable items that increase minion capacity by more than 1.
+forbidden treads
+
 Which leg armor piece provides the largest increase to minion damage?
 red riding
 
@@ -1244,6 +1380,9 @@ tim
 
 Which item provides the largest velocity increase to arrows?
 magic quiver
+
+How many stars are summoned each time the Star Cloak activates?
+3
 
 How much defense does the Monk armor set provide?
 46
@@ -1283,6 +1422,9 @@ shroomite headgear
 
 Which mount is obtained directly through fishing?
 scaly truffle
+
+How many mounts are available in pre-Hardmode?
+4
 
 Which 3-piece vanity set can be obtained from the Pumpkin Moon?
 scarecrow
@@ -1354,6 +1496,9 @@ How many separate pieces of armor are part of the Shroomite set?
 5
 
 Which accessory has the highest attack speed bonus without modifiers?
+celestial shell
+
+Which accessory grants the highest increase to melee damage?
 celestial shell
 
 Which accessory only activates when the wearer's health is below 50%?
@@ -1537,7 +1682,7 @@ How many types of pressure plates are there?
 Name a type of non-weighted pressure plate that can only be triggered by players.
 grey
 
-What type of pressure plate can only be triggered by NPCs and enemies?
+Which pressure plate can only be triggered by NPCs and enemies?
 yellow
 
 Name a type of pressure plate that can only be triggered by players, NPCs, and enemies.
@@ -1611,6 +1756,9 @@ How many bows are there?
 
 How many repeaters are there?
 9
+
+How many bows (not Repeaters) are fully automatic?
+8
 
 How many guns are there?
 25
@@ -1844,7 +1992,7 @@ How many Iron bars do you need to craft an inlet pump?
 How many Iron Bars are required to make an Announcement Box?
 4
 
-How many different recipes are the Illegal Gun Parts used in?
+How many different recipes include Illegal Gun Parts?
 3
 
 How many Topaz are required to craft the Sandgun?
@@ -1969,8 +2117,11 @@ skiphs's blood
 Which is the only item that can be rewarded to the player upon opening a treasure bag in Hardmode, or by offering a strange plant to the Dye Trader after defeating the Moon Lord?
 skiphs's blood
 
-What is the only dye that requires bars to be crafted?
+What is the only dye that is crafted with bars?
 void
+
+Which hair dye can only be obtained in multiplayer mode?
+team
 
 Which single dye requires the most total materials to craft?
 intense rainbow
@@ -2018,6 +2169,9 @@ deadly
 
 Which modifier grants the highest damage increase?
 ruthless
+
+Which weapon modifier reduces damage by the largest amount?
+broken
 
 Which modifier grants the highest damage for summoning weapons?
 ruthless
@@ -2149,7 +2303,7 @@ oiled
 Which debuff decreases defense while increasing melee stats?
 tipsy
 
-Which debuff prevents life regeneration?
+Which debuff prevents life regeneration as its only effect?
 bleeding
 
 How much does the Ichor debuff lower defense by?
@@ -2163,6 +2317,9 @@ How many seconds would the Potion Sickness debuff last on a player that has both
 
 By how much does the Betsy's Curse debuff lower an enemy's defense?
 40
+
+Which debuff prevents players from building or breaking blocks?
+creative shock
 
 Which debuff increases your damage output?
 feral bite
@@ -2207,7 +2364,13 @@ burning
 Which enemy inflicts the webbed debuff?
 black recluse
 
+How many enemies can inflict the Weak debuff in normal mode?
+3
+
 Which buff do sunflowers give when within a 50-tile radius of the player?
+happy
+
+Which buff is granted by Sunflowers?
 happy
 
 What is the only debuff you can get from touching water?
@@ -2222,11 +2385,17 @@ pad thai
 What is the name of the buff provided by the Frozen Turtle Shell?
 ice barrier
 
+What enemy inflicts the Oozed debuff?
+ogre
+
 What is the name of the buff granted by Palladium armor?
 rapid healing
 
 What is the only debuff that the Lunatic Cultist can inflict?
 on fire!
+
+What is the only source of the Stinky debuff?
+stink potion
 
 How many minutes does the Clairvoyance buff last?
 10
@@ -2315,6 +2484,9 @@ asphalt
 Out of Asphalt blocks, Lightning Boots, and the Blessed Apple; which one boosts maximum movement speed the most?
 blessed apple
 
+How many background walls are animated?
+9
+
 >> [Furniture/Non solids] --------------------------
 What is the only banner with a width of two tiles?
 war table
@@ -2325,14 +2497,23 @@ sand
 What is the only rope that has no sell value?
 vine
 
+What item can be used to obtain a Flask of Party without crafting it?
+pigronata
+
 What item will the first Shadow Orb smashed in a world drop?
 musket
 
 What item will the first Crimson Heart smashed in a world drop?
 undertaker
 
+How many weapons can only be found by smashing Crimson Hearts?
+3
+
 What wall decoration can be obtained by opening Presents?
 holly
+
+Which naturally-generated block can be crafted into a cup?
+honey
 
 How many placeable items can fire ammunition that you place into them?
 4
@@ -2346,8 +2527,14 @@ How many different colors of Starfish are there?
 Which tree type doesn't drop acorns?
 giant glowing mushroom
 
+What is the only non-craftable chest that is renewable?
+golden
+
 Which type of tree can be grown both with and without Acorns?
 rich mahogany
+
+What item can be upgraded into an Adamantite or Titanium Forge?
+hellforge
 
 What is the only Sofa whose sprite does not depict a back rest?
 dynasty
@@ -2406,6 +2593,9 @@ fireblossom
 
 When do waterleaves bloom?
 rain
+
+Which herb blooms permanently until harvested?
+shiverthorn
 
 ====================================================
 
@@ -2601,6 +2791,9 @@ pharaoh
 What unique treasure found in Pyramid chests is purely cosmetic?
 pharaoh set
 
+How many items can only be found in Pyramid chests?
+4
+
 >>> Sword Shrine :::::::::::::::::::::::::::::::::::
 What is the chance of getting an Arkhalis from a real Enchanted Sword Shrine?
 1/10
@@ -2635,6 +2828,9 @@ false
 >>> Jungle :::::::::::::::::::::::::::::::::::::::::
 Name a biome that always spawns on the opposite side of the world to the Jungle.
 snow
+
+What is the only gem-based torch that can be found naturally?
+green
 
 Which item found in the Underground Jungle biome after the defeat of a mechanical boss increases the player's maximum health by 5 up to 500?
 life fruit
@@ -2680,6 +2876,9 @@ How many different biome chests are there in the Dungeon?
 
 How many different paintings can be found in the Dungeon?
 24
+
+How many decorative banners can only be found in the Dungeon?
+6
 
 In which biome can you obtain ectoplasm?
 dungeon
@@ -2732,6 +2931,10 @@ true
 In which biome can you get the Pirate Map?
 ocean
 
+>>> Hallow :::::::::::::::::::::::::::::::::::::::::
+Which biome with its own soundtrack cannot be encountered in pre-Hardmode?
+hallow
+
 ====================================================
 
 > [Enemy & Boss] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2763,6 +2966,9 @@ queen bee
 Which boss shares its music theme with the Lunatic Cultist?
 golem
 
+How many colors of Pigron are there?
+3
+
 How many variants of Sand Sharks exist?
 4
 
@@ -2771,6 +2977,9 @@ bone biter
 
 What enemy replaces the Sand Shark in a Crimson Desert?
 flesh reaver
+
+What type of Ghoul is found in Hallowed Underground Deserts?
+dreamer
 
 What is the Crimson variant of the Demon Eye called?
 cataract eye
@@ -2799,7 +3008,7 @@ skeletron
 Which enemy that spawns in a Solar Eclipse is completely original to Terraria?
 eyezor
 
-Which Hardmode boss has to be killed before biome chests can be unlocked?
+Which boss must be killed before biome chests can be unlocked?
 plantera
 
 How many arms does Skeletron Prime have?
@@ -2809,6 +3018,9 @@ Which enemy is the most susceptible to knockback?
 pinky
 
 Which boss can only be summoned in the Underworld?
+wall of flesh
+
+The defeat of which boss triggers Hardmode?
 wall of flesh
 
 Which Dungeon enemy produces metallic clinking noises when hit?
@@ -2823,7 +3035,7 @@ Excluding the Jungle Mimic and counting the regular, gold, and shadow mimics as 
 How many different boss and mini-boss masks are there in the PC version?
 18
 
-How many non-event bosses are in the PC version of the game?
+How many non-event bosses are in Terraria?
 15
 
 How many different trophies can you get from non-event bosses in the PC version?
@@ -2874,7 +3086,7 @@ Including unobtainable ones, how many different treasure bags are there?
 Name an arm of Skeletron Prime.
 saw
 
-Which enemy deals the most damage in a single hit?
+Which enemy deals the highest damage in a single hit?
 dungeon guardian
 
 Which enemy/boss has the most health of any one entity?
@@ -2888,6 +3100,9 @@ chlorophyte
 
 After which boss can you get ectoplasm?
 plantera
+
+Which butterfly has the shortest name?
+gold
 
 How many variants of Rusty Armored Bones are there?
 4
@@ -2958,6 +3173,9 @@ mothron
 How fast does the Dungeon Guardian move in mph?
 41
 
+Which enemy spawns in Marble biomes only in Hardmode?
+medusa
+
 Which enemy exclusively spawns at high altitudes during pre-Hardmode?
 harpy
 
@@ -2972,6 +3190,9 @@ wall of flesh
 
 Which enemy spawns when you smash a Demon/Crimson Altar?
 wraith
+
+Name a slime variant that can spawn multiple slimes upon death.
+king slime
 
 Other than the Gastropod, what is the only slime variant that can fly in the PC version?
 slimer
@@ -3002,6 +3223,9 @@ screams
 
 What Hardmode boss can summon the Phantasm Dragon?
 lunatic cultist
+
+Which Hardmode enemy fires Wooden Arrows?
+cultist archer
 
 Which enemy can the Lunatic Cultist only summon in Expert mode?
 ancient doom
@@ -3050,6 +3274,9 @@ brain suckler
 
 What is the base damage of the Lunatic Devote enemy?
 0
+
+Which humanoid enemy does not deal contact damage?
+lunatic devote
 
 What is the Splinterling's base damage?
 100
@@ -3167,6 +3394,9 @@ What is the drop rate of the Brain Scrambler?
 What is the only boss that drops Healing Potions, and not Lesser or Greater Healing Potions?
 wall of flesh
 
+Which boss drops the only hardcore-exclusive item?
+eye of cthulhu
+
 Which armor set can be dropped by Hornets?
 ancient cobalt
 
@@ -3185,7 +3415,7 @@ whoopie cushion
 What is the highest-value item that can be obtained from an enemy spawned by a statue?
 giant harpy feather
 
-How many different emblems can drop from the Wall of Flesh?
+How many different accessories can be dropped by the Wall of Flesh?
 4
 
 How many different weapons are dropped by the Goblin Summoner?
@@ -3242,6 +3472,9 @@ What is the chance of the Pirate Captain dropping the Coin Gun? Answer as a frac
 What type of wood can only be obtained by killing enemies?
 spooky
 
+What is the only type of wood that cannot be used to craft armor or torches?
+dynasty
+
 Which item, dropped from an enemy during a Solar Eclipse, transforms the player into merfolk form?
 neptune's shell
 
@@ -3257,7 +3490,7 @@ skeletron
 Which boss has 2 different trophies?
 twins
 
-Name one of the 2 bosses that drop the most amount of coins.
+Name one of the 2 bosses that drop the largest number of coins.
 golem
 
 Which Golem drop has the lowest drop chance?
@@ -3451,6 +3684,9 @@ Which Expert-exclusive item does the Moon Lord drop besides the Suspicious Looki
 gravity glove
 
 >> [Which enemy drops X] ---------------------------
+Which enemy requires the largest number of kills per banner?
+etherian goblin
+
 Which enemy can drop a Shackle?
 zombie
 
@@ -3529,11 +3765,14 @@ ice golem
 Which enemy drops Butterfly Dust?
 moth
 
-What is the name of the pre-Hardmode enemy which can drop the Metal Detector?
+Which enemy can drop the Metal Detector?
 nymph
 
 Which enemy has a chance of dropping the Putrid Scent?
 corrupt mimic
+
+Which of the three biome Mimics cannot drop an accessory?
+hallowed
 
 Which Crimson enemy drops Vitamins?
 floaty gross
@@ -3562,8 +3801,14 @@ ragged caster
 Which enemy drops the Rocket Launcher?
 skeleton commando
 
+Which enemy drops the Tactical Shotgun?
+tactical skeleton
+
 What drops the Eyeball Spring?
 eyezor
+
+Which enemy drops the Neptune's Shell?
+creature from the deep
 
 Which enemy drops the Sniper Rifle?
 skeleton sniper
@@ -3582,6 +3827,9 @@ mothron
 
 Which enemy drops the Brain Scrambler?
 scutlix gunner
+
+Which enemy can drop two pet summoning items?
+dark mage
 
 Which mini-boss has a chance of dropping the Christmas Tree Sword?
 everscream
@@ -3619,6 +3867,8 @@ tiled
 > [NPC] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> [NPC general] -----------------------------------
+How many different friendly NPCs can be found?
+26
 
 What is the maximum amount of health an NPC can have?
 250
@@ -3632,7 +3882,7 @@ guide
 What name must the Guide have in order to drop the Green Cap?
 andrew
 
-What is the only town NPC the player cannot give coins to or receive coins from?
+What is the only town NPC that the player cannot pay or receive money from?
 guide
 
 Which NPC must die in order to summon the Wall of Flesh?
@@ -3641,7 +3891,7 @@ guide
 What is the Angler doing when the player first finds him?
 sleeping
 
-Which NPC can be found asleep in the ocean biome?
+Which NPC can be found floating in the Ocean?
 angler
 
 Which NPC instead of dying, leaves?
@@ -3650,7 +3900,7 @@ angler
 Which NPC heals other NPCs upon taking damage?
 nurse
 
-When healing fellow NPCs, how much health does each individual syringe of the Nurse restore?
+When healing friendly NPCs, how much health does each individual syringe of the Nurse restore?
 20
 
 What color clothing does the Dryad wear?
@@ -3665,7 +3915,7 @@ demolitionist
 What species is the Witch Doctor?
 lihzahrd
 
-Which NPC defends themselves with Spiky Balls?
+Which NPC uses Spiky Balls for self-defense?
 goblin tinkerer
 
 Where can the Mechanic be found?
@@ -3787,6 +4037,12 @@ How many different kinds of wallpaper does the Painter sell?
 Which NPC can drop a ranged weapon when killed?
 painter
 
+What is the most expensive paint?
+negative
+
+Which NPC sells Ale?
+tavernkeep
+
 Who sells marshmallows?
 merchant
 
@@ -3865,6 +4121,9 @@ bacon
 Which hook is sold by the Steampunker?
 static
 
+In total, how many different items can you purchase from the Steampunker?
+23
+
 Which NPC sells the cannon?
 pirate
 
@@ -3903,6 +4162,9 @@ angler vest
 
 Which item is the reward for the 20th Angler quest?
 angler pants
+
+Which wings can be obtained by completing fishing quests?
+fin wings
 
 What is the minimum number of Angler quests that need to be completed in order to obtain the Golden Fishing Rod?
 30
@@ -4544,6 +4806,9 @@ In what year was PC version 1.3.0.1 released?
 Which speedrunner-favored consumable weapon was nerfed with the release of PC version 1.3.0.1?
 molotov cocktail
 
+Prior to version 1.2.3, which crafting station could be used to drain water?
+hellforge
+
 Prior to PC version 1.3.0.5, which sword could be fished in the Jungle in Hardmode?
 seedler
 
@@ -4558,6 +4823,9 @@ spectre hamaxe
 
 Prior to version 1.3.0.5, which sword could be obtained by fishing in the Jungle in Hardmode?
 seedler
+
+Prior to version 1.3, what was the fastest hammer?
+the axe
 
 ====================================================
 
@@ -4612,6 +4880,9 @@ alien
 
 The name 'Plantera' is a reference to what popular former heavy metal band?
 pantera
+
+Which vanity set named after a real person can be obtained in pre-Hardmode?
+pedguin
 
 What person is "The Axe" a tribute to?
 dimebag darrell
@@ -4747,6 +5018,9 @@ duke fishron
 ====================================================
 
 > [Misc.] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is the exact text that shows up on screen when the player dies?
+you were slain...
 
 Which player stat is 50% more effective in Expert mode?
 defense
